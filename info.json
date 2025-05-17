@@ -1,0 +1,11 @@
+{
+    "name": "PatchFR",
+    "version": "2.0.7",
+    "title": "Patch FR des Mods",
+    "author": "bev",
+    "contact": "",
+    "homepage": "http://mods.join.factorio-francophone.ovh/",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Ce mod permet, à lui seul, d'obtenir la traduction française de plus de 500 mods ! Un outil indispensable pour jouer sans s'embarrasser des termes anglais.\nIl reprend tous les mods AAI, Angel's, Bob's, IE3, Omni, BZ, Pyanodons, EI, 5Dim mais aussi RSO, Bottleneck, Squeak Through, LTN, Factory Planner, Nullius, 248k, YARM, ... et beaucoup, beaucoup d'autres encore.\nLa liste complète se trouve dans la description.\n\nThis mod provides a locale (translation) of more than 500 mods into French."
+}

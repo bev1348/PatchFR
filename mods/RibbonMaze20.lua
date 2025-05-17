@@ -1,0 +1,96 @@
+return {
+    ---------------
+    --RibbonMaze20.cfg
+    ["recipe-name"] = {
+        ["maze-terraforming-artillery-shell"]="Obus d'artillerie de terraformation du labyrinthe",
+        ["maze-terraforming-artillery-turret"]="Tourelle d'artillerie de terraformation du labyrinthe",
+        ["wood-kiln-drying"]="Séchage du bois",
+        ["in-vessel-composting"]="Compostage en cuve",
+        ["raw-wood-shredding"]="Broyage du bois brut",
+        ["raw-fish-shredding"]="Broyage du poisson cru",
+        ["green-wood-shredding"]="Broyage du bois vert",
+        ["wood-shredding"]="Broyage du bois",
+        ["wooden-chest-shredding"]="Broyage de coffres en bois",
+        ["small-electric-pole-shredding"]="Broyage de petits poteaux électriques",
+    },
+    ["recipe-description"] = {
+        ["wood-kiln-drying"]="Séchage du bois vert en bois brut",
+        ["in-vessel-composting"]="Décomposition contrôlée de la matière organique à l'échelle industrielle. Produit de la vapeur d'eau à 65°C.",
+        ["raw-wood-shredding"]="Broyage de bois brut pour le compostage",
+        ["raw-fish-shredding"]="Broyage du poisson cru pour le compostage",
+        ["green-wood-shredding"]="Broyage de bois vert pour le compostage",
+        ["wood-shredding"]="Broyage de bois pour le compostage",
+        ["wooden-chest-shredding"]="Broyage de coffres en bois pour le compostage",
+        ["small-electric-pole-shredding"]="Broyage de petits poteaux électriques pour le compostage",
+    },
+    ["entity-name"] = {
+        ["maze-terraforming-artillery-projectile"]="Projectile d'artillerie de terraformation du labyrinthe",
+        ["maze-terraforming-target"]="Abîme du labyrinthe",
+        ["maze-terraforming-artillery-turret"]="Tourelle d'artillerie de terraformation du labyrinthe",
+        ["maze-terraforming-artillery-wagon"]="Wagon d'artillerie de terraformation du labyrinthe",
+        ["mangrove"]="Mangrove",
+        ["mangrove-harvester"]="Récolteuse de mangroves",
+        ["mangrove-avicennia"]="Mangrove (Avicennia)",
+        ["mangrove-bruguiera"]="Mangrove (Bruguiera)",
+        ["mangrove-rhizophora"]="Mangrove (Rhizophora)",
+    },
+    ["entity-description"] = {
+        ["maze-terraforming-target"]="La terraformation peut éventuellement convertir cela en eau",
+        ["mangrove-avicennia"]="Une source durable de bois, avec un taux d'humidité élevé. Les remblais le détruisent à jamais.",
+        ["mangrove-bruguiera"]="Une source de bois durable. Les remblais le détruisent à jamais.",
+        ["mangrove-rhizophora"]="Une source de bois facilement accessible.",
+    },
+    ["item-name"] = {
+        ["maze-terraforming-artillery-cannon"]="Canon d'artillerie de terraformation du labyrinthe",
+        ["maze-terraforming-artillery-shell"]="Obus d'artillerie de terraformation du labyrinthe",
+        ["maze-terraforming-artillery-turret"]="Tourelle d'artillerie de terraformation du labyrinthe",
+        ["maze-terraforming-artillery-wagon"]="Wagon d'artillerie de terraformation du labyrinthe",
+        ["geocomposite"]="Géocomposite",
+        ["green-wood"]="Bois vert",
+        ["mangrove-harvester"]="Récolteuse de mangroves",
+        ["compost"]="Compost",
+        ["composting-greens"]="Compostage des produits verts",
+        ["composting-browns"]="Compostage des produits bruns",
+    },
+    ["item-description"] = {
+        ["landfill"]="C'est aussi un produit intermédiaire pour la terraformation du labyrinthe. Attention : les remblais détruisent les mangroves !",
+        ["geocomposite"]="Matériau de revêtement avancé pour les remblais.",
+        ["green-wood"]="Peut être séché en bois brut.",
+        ["electric-mining-drill"]="Utilisé pour l'exploitation minière et la coupe de la mangrove.",
+        ["compost"]="Un conditionneur de sol, nécessaire pour la récupération des terres.",
+        ["composting-greens"]="Matériaux humides et riches en azote pour le compostage.",
+        ["composting-browns"]="Matériaux secs et riches en carbone pour le compostage.",
+    },
+    ["technology-name"] = {
+        ["mangrove-harvesting"]="Récolte des mangroves",
+        ["maze-terraforming"]="Terraformation du labyrinthe",
+        ["wood-kiln-drying"]="Séchage du bois",
+        ["in-vessel-composting"]="Compostage en cuve",
+        ["oil-scanning"]="Balayage du pétrole",
+        ["uranium-scanning"]="Balayage de l'uranium",
+    },
+    ["technology-description"] = {
+        ["mangrove-harvesting"]="Automatiser l'exploitation forestière dans les mangroves",
+        ["maze-terraforming"]="Transformez le labyrinthe en voies d'eau et en mangroves.",
+        ["wood-kiln-drying"]="Sèche le bois vert dans des conditions contrôlées.",
+        ["in-vessel-composting"]="Décomposition contrôlée, à l'échelle industrielle, de la matière organique.",
+        ["landfill"]="Recouvrez l'eau et créez des raccourcis. Attention : les remblais détruisent les mangroves !",
+        ["oil-scanning"]="Révèle des gisements de pétrole dans un rayon d'environ 1000 tuiles du départ (uniquement si le mod contrôle le pétrole !)",
+        ["uranium-scanning"]="Révèle des gisements d'uranium dans un rayon d'environ 1000 tuiles du départ (uniquement si le mod contrôle l'uranium !)",
+    },
+    ["tile-name"] = {
+        ["water-green"]="Abîme du labyrinthe",
+    },
+    ["tile-description"] = {
+        ["water-green"]="Inutilisable et impraticable, mais peut être transformé en eau par la terraformation du labyrinthe",
+    },
+    ["achievement-name"] = {
+        ["terraforming-maze"]="Terraformation du labyrinthe",
+        ["feller-buncher"]="L'abatteuse",
+    },
+    ["achievement-description"] = {
+        ["terraforming-maze"]="Produire 5 000 obus d'artillerie de terraformation du labyrinthe.",
+        ["feller-buncher"]="Produire 1 000 bois brut par heure.",
+    }
+    -------------------------
+}

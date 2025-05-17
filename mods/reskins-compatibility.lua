@@ -1,0 +1,5 @@
+return {
+    ---------------
+    --reskins-compatibility.cfg
+    -------------------------
+}

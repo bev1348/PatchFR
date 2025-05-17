@@ -1,0 +1,815 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.7
+Date: 04.05.2025
+  Locale:
+    - Ajout des mods suivants : The Ruins Mod Updated (Time fork), Accumulator Wagon Reborn, 
+      Actual Craft Time 2.0, Additional Paste Settings (Fixed), Advanced Belts, Aircraft Realism, 
+      Atomic Artillery Reborn, Auto Manual Mode, Autobuild, Automatic Station Painter, 
+      Ballistic Missile, BeltRouter Lite, Belt Upgrader, Better Alert Arrows, 
+      Better Victory Screen, Bigger Artillery, Big-Monsters, Builder Bot Start, Canal Excavator,
+      Clock, MadClown01's Nuclear Extension, Companion Drones 2.0, Concrete Lamppost 2.0, 
+      Construction Train 2.0, Spidertron Automation, Dark Matter Replicators 2.0, 
+      Dark Matter Replicators Space Age, Memory Storage, Edit Map Settings, Electric Grid, 
+      Enemy Race Manager, Energy Combinator, Mining and Crafting Speed Research, 
+      Even More Text Plates 2.0, Events Logger, Explosive Termites, 
+      Factorio crash site (and legacy items), Factorio Earth 2.0, 
+      Barreling Machine reworked for 2.0, Fluid Permutations Fixed, Fluid Memory Storage,
+      Foodtorio, Gear Girl 2.0, Ghost Scanner 4, Blood & Gore, GUI Unifier, Gun Equipment, 
+      Handy Hands (Refactored), Induction Charging Revamp, Infinite Ores And Oil, 
+      Inserter Fuel Leech, Inverted Quality, King Jo's Fuels, Picker Extended Reborn, 
+      Lane balancers, Larger Lamps 2.0, Large Storage Tank, Lighted Electric Poles +, 
+      Advanced Furnaces 2 SpaceAgeFix, Mega Bot Start, Moon Logic 2, More Minimap Autohide, 
+      Mushroom Cloud Reborn, My Quick Start, Napalm Artillery, OceanBlock, Ore Eraser, P.U.M.P., 
+      Queue To Front (limited), Queue To Front, Bulk Rail Loader 2.0, Rampant fixed, Rapid Belts, 
+      Realistic Flashlight Fixed, Ribbon Maze (fix for 2.0), Robocharger Factorio 2.0, 
+      Robot Battery Research, Robot Quick Start, Robot World Continued, Schall Alien Loot, 
+      Schall Endgame Evolution, Schall Transport Group, Shuttle Train Refresh, Solar Productivity, 
+      Speed Control, Splatter Guard (continued), Stack Combinator (Redux), Storage Tank Mk2 2.0, 
+      Switch Button updated for 2.0, TCS Icons, Long and Far Reach FORKED, TinyStart 2, 
+      Modern Bulk Rail Loader, Transport Drones, Ultimate Belts Space Age, Unit Control [fixed], 
+      UPS Friendly Nixie Tubes (Fixed), Vanilla Loaders, Warptorio 2.0 (Space Age), Wind Turbines, 
+      Wire Shortcuts X, Fire Place (Work In Progress), Enhanced Map Colors 2.0 Reupload et 
+      Vill's Recipe Randomizer (2.x)
+    - Mise à jour des mods suivants : Asteroid Mining, Blueprint Sandboxes, Bob's Metals, 
+      Chemicals and Intermediates, BZ Zirconium, Cannon Turret, Construction Approvals, 
+      Hostile Trees, Pyanodons Alien Life, Pyanodons Coal Processing, 
+      Pyanodons Petroleum Handling, Tycoon et Wood-Walls and floors
+  Bugfixes: Corrections mineures du code
+---------------------------------------------------------------------------------------------------
+Version: 2.0.6
+Date: 06.04.2025
+  Locale:
+    - Ajout des mods suivants : Construction Planner et Orbital Transfer - Inter-Platform Logistics
+    - Mise à jour des mods suivants : AAI Loaders, Artisanal Reskins: Bob's Mods, 
+      Artisanal Reskins: Compatibility, Artisanal Reskins: Library, Asteroid Mining, 
+      Blueprint Sandboxes, Blueprint Shotgun, Bob's Adjustable Inserters, 
+      Bob's Assembling machines, Bob's Character classes, Bob's Electronics, Bob's Enemies, 
+      Bob's Functions Library mod, Bob's Greenhouse mod, Bob's Logistics mod, Bob's Metals,
+      Chemicals and Intermediates, Bob's Mining, Bob's Modules, Bob's Ores, 
+      Bob's Personal Equipment mod, Bob's Power, Bob's Revamp mod, Bob's Tech, 
+      Bob's Vehicle Equipment, Bob's Warfare, BZ Lead, Construction Approvals, Cybersyn Combinator,
+      Extended Vanilla: Personal Equipment, Extended Vanilla: Refining, Factory Planner, 
+      Fluid Level Indicator, LTN - Logistic Train Network, LTN Combinator Modernized, 
+      Map Tag Generator, More Long Inserters, Pacifist, Planet Hoppers, Robot Army, 
+      Spidertron Patrols et Vehicle Wagon 2
+    - Suppression des mods suivants : Recipe Book
+---------------------------------------------------------------------------------------------------
+Version: 2.0.5
+Date: 09.03.2025
+  Locale:
+    - Ajout des mods suivants : Belt Balancer 2, Invincible Construction Bots, 
+      Nanobots: Early Bots 2.0, Planet Hoppers, Planet Nekohaven et Thermal Solar Power (Lite)
+    - Mise à jour des mods suivants : Asteroid Mining, Blueprint Shotgun, Dredgeworks, 
+      Extended Vanilla: Mining & Drills, God Module, LTN - Logistic Train Network, 
+      LTN Combinator Modernized, Pacifist, Personal Battery Pack, Planet Arrakis, 
+      Pyanodons Alien Life, Pyanodons Coal Processing, Pyanodons High Tech, Pyanodons Industry, 
+      Spidertron Extended, Spidertron Patrols et Subsurface - build beneath your base!
+    - Suppression des mods suivants : Bottleneck Lite et Spidertron Logistics System
+---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 09.02.2025
+  Locale:
+    - Ajout des mods suivants : Chest Auto Sort, Enemy Alert, Filter Chests, Farmtorio, Gleba Lab, 
+      Gleba Reborn, God Module, Inventory Repair, It's About Time!, Orphan Finder, 
+      Quality upgrade planner, Squeak Through 2, TrashChest, Underground Storage Tank et Valves
+    - Mise à jour des mods suivants : AAI Programmable Vehicles, Armored Train (Turret Wagons), 
+      Automatic logistic chests, Blueprint Sandboxes, BZ Graphite & Diamonds, BZ Silica & Silicon, 
+      BZ Tin, BZ Zirconium, Cargo Ships, Cybersyn Combinator, Dredgeworks, Electric Furnaces, 
+      Factorio World, Nuclear Fuel, LTN - Logistic Train Network, Pacifist, Pyanodons Alien Life, 
+      Pyanodons Alternative Energy, Pyanodons Coal Processing, Pyanodons Industry, 
+      Pyanodons Petroleum Handling, Pyanodons Raw Ores, Reverse Factory, Smart Inserters, 
+      Spidertron Patrols, Team Competition et Deep core mining
+    - Suppression des mods suivants : Frost Biters
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 05.01.2025
+  Locale:
+    - Ajout des mods suivants : Aquilo Thermometer, Fulgoran enemies, Cargo Pad Bonus Research, 
+      Planet Arrakis et Tenebris
+    - Mise à jour des mods suivants : 5Dim's mod - Battlefield, 5Dim's mod - Module, 
+      AAI Programmable Structures, AAI Programmable Vehicles, AAI Zones, Armored Train, 
+      Automatic logistic chests, Avatars, Blueprint Sandboxes, BZ Lead, BZ Tin, BZ Titanium, 
+      Cannon Turret, Creative Mod, Cybersyn Combinator, Dredgeworks, Editor Extensions, 
+      Extended Vanilla: Mining & Drills, Extended Vanilla: Refining, Factorio World, 
+      Keniras Random Recipes, Lightorio, Merging Chests, Merging Chests Logistic, Modular Turrets, 
+      More Long Inserters, Nuclear Fuel, Precious, precious caffeine, Pyanodons Alien Life, 
+      Pyanodons Coal Processing, Rail Logistics Dispatcher, Resource Map Label Marker, 
+      Resource Spawner Overhaul, Robot Army, Schall Satellite Controller, Schall Tank Platoon, 
+      Spidertron Patrols, Subsurface - build beneath your base!, Team Competition, Waterfill et 
+      YARM - Resource Monitor
+    - Suppression des mods suivants : Asphalt Roads, Cursor Enhancements, Explosive Biters, 
+      Flare Stack, Fluid Must Flow, Mining patch planner, Renai Transportation et Toxic Biters
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 1.12.2024
+  Locale:
+    - Mise à jour des mods suivants : 5Dim's mod - Core, 5Dim's mod - Module, 
+      5Dim's mod - Battlefield, 5Dim's mod - Transport, AAI Vehicles: Hauler, 
+      AAI Vehicles: Laser Tank, AAI Vehicles: Warden, Alien Loot Economy, Assembly Analyst, 
+      Blueprint Sandboxes, Cargo Ships, Construction Planner Continued, DivOresity, Dredgeworks, 
+      Electric Boiler, Explosive Biters, Extended Vanilla: Personal Equipment, 
+      Extended Vanilla: Refining, Factory Planner, FasterStart, Frost Biters, Hourly Autosaves, 
+      Hovercrafts, Inlaid Lamps Extended, Lex's Aircraft, Light Artillery, Merging Chests, 
+      More Ammo, More Long Inserters, No Wall Repair, Omnicompression, Omnienergy, Omnimatter, 
+      Pushbutton, Pyanodons Alien Life, Pyanodons Alternative Energy, Pyanodons Coal Processing, 
+      Pyanodons Fusion Energy, Pyanodons High Tech, Pyanodons Industry, 
+      Pyanodons Petroleum Handling, Pyanodons Post Processing, Pyanodons Raw Ores, 
+      Rail Logistics Dispatcher, Renai Transportation, Reverse Factory, Schall Overseas Railway, 
+      Schall Tank Platoon, Scrap Resource, Smart Inserters, Spidertron Patrols, 
+      Subsurface - build beneath your base!, Vehicle Wagon 2 et What is it really used for?
+    - Suppression des mods suivants : Hover Car [0.18-1.1] et 
+      Project Cybersyn - Logistics Train Dispatcher
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 3.11.2024
+  Locale:
+    - Mise à jour des mods suivants : AAI Industry, AAI Loaders, Alien Biomes, Alien Loot Economy, 
+      Ammo Loader+, Assembly Analyst, Automatic Train Painter, Beacon Rebalance, 
+      Blueprint Sandboxes, Bottleneck, Cargo Ships, Cheese's Concentrated Solar, 
+      Construction Planner Continued, Creative Mod, Cybersyn Combinator, dangOreus, Disco Science, 
+      Early Construction, Editor Extensions, Electric Trains, Even Distribution, Explosive Biters, 
+      Extended Vanilla: Mining & Drills, Extended Vanilla: Personal Equipment, 
+      Extended Vanilla: Refining, Factoripedia, Factory Planner, FasterStart, Fill4Me, 
+      Fluid Level Indicator, Fluid Must Flow, Frost Biters, Ghost Counter, Informatron, 
+      Keniras Random Recipes, Light Overhaul, Map Tag Generator, Max Rate Calculator, 
+      Merging Chests, Merging Chests Logistic, Mining patch planner, Modular Turrets, 
+      Module Inserter Simplified, More Long Inserters, Nixie Tubes, Omega Drill, Packing Tape, 
+      Plutonium Energy, Project Cybersyn - Logistics Train Dispatcher, Pyanodons Alien Life, 
+      Pyanodons Alternative Energy, Pyanodons Coal Processing, Pyanodons Fusion Energy, 
+      Pyanodons Industry, Pyanodons Petroleum Handling, Pyanodons Post Processing, 
+      Pyanodons Raw Ores, Renai Transportation, Repair Turret, Resource Spawner Overhaul, 
+      Reverse Factory, Simply Power Armor MK3, Solar Calculator, Teleporters, Territory Claim, 
+      Train Log, Vehicle Wagon 2 et Waterfill
+    - Suppression des mods suivants : Calculator UI, More Repair Packs, Stats GUI et WoodToOil
+  Info:
+    - Seuls les mods qui sont compatibles avec la nouvelle version du jeu (2.0) seront
+      désormais repris dans les mises à jour de ce mod.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.10
+Date: 06.10.2024
+  Locale:
+    - Mise à jour des mods suivants : Extended Descriptions, Extended Vanilla: Refining et 
+      Reverse Factory
+  Info:
+    - Il s'agit de la dernière mise à jour pour ce qui concerne la version 1.1 du jeu.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.9
+Date: 08.09.2024
+  Locale:
+    - Ajout des mods suivants : Artisanal Reskins: Angel's Mods, Artisanal Reskins: Bob's Mods, 
+      Artisanal Reskins: Compatibility, Artisanal Reskins: Library, Map Tag Generator, 
+      Missile Defense Systems, Power Combinator et Rampant Arsenal
+    - Mise à jour des mods suivants : Cybersyn Combinator, Factory Planner, HelicopterRevival, 
+      Merging Chests, Mining patch planner, Module Inserter Simplified, Pyanodons Alien Life, 
+      Pyanodons Alternative Energy, Pyanodons Coal Processing, Team Competition et Train Log
+---------------------------------------------------------------------------------------------------
+Version: 1.2.8
+Date: 11.08.2024
+  Locale:
+    - Mise à jour des mods suivants : Extended Descriptions, Frost Biters, Industrial Revolution 3, 
+      Industrial Revolution 3 Inspiration, Mining patch planner, Spidertron Logistics System, 
+      Toxic Biters et Tycoon
+---------------------------------------------------------------------------------------------------
+Version: 1.2.7
+Date: 17.07.2024
+  Bugfixes: 
+    - Erreur dans le prise en compte de la bonne traduction pour les entités (CommuPrototype.lua).
+---------------------------------------------------------------------------------------------------
+Version: 1.2.6
+Date: 14.07.2024
+  Locale:
+    - Ajout des mods suivants : Industrial Revolution 3, Industrial Revolution 3: Airships, 
+      Industrial Revolution 3: Deep Space Mining, Industrial Revolution 3: Inspiration et 
+      Industrial Revolution 3: Powered Loaders & Ingot Stacking
+    - Mise à jour des mods suivants : Belt Visualizer, Black Rubber Belts, Dredgeworks, 
+      Exotic Industries, Extended Vanilla: Refining, Larger Lamps, 
+      Logistic Request Manager (continued), Omnicompression, Renai Transportation, 
+      Reverse Factory, Pyanodons Alien Life, Pyanodons Alternative Energy et 
+      Pyanodons Raw Ores
+    - Suppression du mod suivant : Intermodal Containers
+---------------------------------------------------------------------------------------------------
+Version: 1.2.5
+Date: 09.06.2024
+  Locale:
+    - Ajout des mods suivants : Color Combinator Lamp Posts et Dredgeworks
+    - Mise à jour des mods suivants : Black Rubber Belts, exfret's randomizer, 
+      Logistic Request Manager (continued), Pacifist, Pyanodons Alien Life, 
+      Pyanodons Alternative Energy, Pyanodons Coal Processing, 
+      Subsurface - build beneath your base! et Territory Claim
+---------------------------------------------------------------------------------------------------
+Version: 1.2.4
+Date: 12.05.2024
+  Locale:
+    - Ajout des mods suivants : Advanced Belts, Advanced Fishing, Better Repair Packs, 
+      Blueprint Shotgun, Cannon Turret, Concrete Lamppost v1.1, Construction Planner Continued, 
+      Deadlock's Crating Machine, Equipment Grid Templates, Fire Place, Implant Camera, 
+      Inlaid Lamps Extended, Inventory Templates, Ironclad Gunboat and Mortar Turret, 
+      Mining patch planner, Module Inserter Simplified, More Repair Packs, Nuclear Locomotives, 
+      Past's Defense Stuff, Personal Logistics Templates, Portable power equipment, Rapid Belts, 
+      Road Sign Signals, Scrap Resource, Simply Power Armor MK3, Smart Inserters, 
+      Subsurface - build beneath your base!, Stasis Mine, TJ's Sign Boards, 
+      Utilization Monitor Blargh, Underwater Pipes et Xtreme Fishing
+    - Mise à jour des mods suivants : Blueprint Sandboxes, Exotic Industries, 
+      exfret's randomizer, Extended Vanilla: Personal Equipment, Modular Turrets, Pacifist, 
+      Pyanodons Alien Life, Pyanodons Alternative Energy, Pyanodons Post Processing et 
+      Team Competition
+---------------------------------------------------------------------------------------------------
+Version: 1.2.3
+Date: 07.04.2024
+  Locale:
+    - Ajout des mods suivants : Auto Manual Mode, Automatic logistic chests, Biter Power, 
+      Blueprint Variables, Crafting Priority, Even More Text Plates, exfret's randomizer, 
+      Frostorio, Hostile Trees, Inbuilt Lighting, Inserter Throughput, Keniras Random Recipes, 
+      Light Overhaul, Orphan Finder With UI Button, Picker Dollies, Train Schedule Helper et 
+      Tycoon
+    - Mise à jour des mods suivants : Blueprint Sandboxes, Extended Vanilla: Personal Equipment, 
+      Extended Vanilla: Refining, Fluid Level Indicator, Pacifist, Pyanodons Alien Life, 
+      Pyanodons Alternative Energy, Pyanodons Coal Processing, Pyanodons High Tech, 
+      Pyanodons Petroleum Handling, Pyanodons Raw Ores, Sosciencity [WIP] et Toxic Biters
+    - Suppression du mod suivant : Pipe Visualizer
+---------------------------------------------------------------------------------------------------
+Version: 1.2.2
+Date: 09.03.2024
+  Bugfixes:
+    - Correctif pour assurer une compatibilité avec les mods Industrial Revolution 3, Krastorio 2
+      et Space Exploration
+---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+Date: 03.03.2024
+  Bugfixes:
+    - Correctif concernant les Prototypes de type 'equipment', 'controls' et 'decorative'
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 03.03.2024
+  Change:
+    - Mise en place de la gestion des références multiples via une détection des mods réellement 
+      utilisés et l'utilisation des propriétés localised_name et localised_description des
+      objets de type Prototype
+  Locale:
+    - Ajout des mods suivants : Pyanodons Alien Life, Pyanodons Alternative Energy, 
+      Pyanodons Coal Processing, Pyanodons Fusion Energy, Pyanodons High Tech, Pyanodons Industry, 
+      Pyanodons Petroleum Handling, Pyanodons Post Processing et Pyanodons Raw Ores
+    - Mise à jour des mods suivants : 248k Mod, Angel's Industries, 
+      Bob's Metals, Chemicals and Intermediates, Bob's Mining, Bob's Power, Bob's Revamp mod, 
+      BZ Aluminum, BZ Graphite & Diamonds, BZ Natural Gas, Fluid Level Indicator, Sea Block, 
+      Sosciencity [WIP], Stack Combinator et Well Planner
+---------------------------------------------------------------------------------------------------
+Version: 1.1.38
+Date: 04.02.2024
+  Locale:
+    - Ajout des mods suivants : Assembly Analyst, Doing Things By Hand, Electric Boiler et 
+      Pushbutton
+    - Mise à jour des mods suivants : Exotic Industries, Extended Vanilla: Refining, 
+      Extended Vanilla: Power Armors (devient Extended Vanilla: Personal Equipment), FNEI, 
+      Holographic Signs, Merging Chests, Merging Chests Logistic, More Long Inserters, Nullius, 
+      Reverse Factory et Stack Combinator
+---------------------------------------------------------------------------------------------------
+Version: 1.1.37
+Date: 07.01.2024
+  Locale:
+    - Mise à jour des mods suivants : Angel's Bio Processing, Angel's Exploration, 
+      Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting, Bob's Electronics, 
+      Bob's Logistics mod, Bob's Metals, Chemicals and Intermediates, Bob's Mining, 
+      Bob's Personal Equipment mod, Bob's Revamp mod, BZ Natural Gas, BZ Noble Metals, 
+      BZ Zirconium, Creative Mod, Electric Trains, Exotic Industries, Extended Angels, 
+      Extended Vanilla: Mining & Drills, Extended Vanilla: Refining, Nullius, Pacifist, 
+      Renai Transportation, Sea Block, Stack Combinator et Stats GUI
+    - Suppression du mod suivant : Freight Forwarding et Rate Calculator
+---------------------------------------------------------------------------------------------------
+Version: 1.1.36
+Date: 10.12.2023
+  Locale:
+    - Ajout des mods suivants : Beautiful Bridge Railway for Cargoships, Big Mining Drill, 
+      CanalBuilder Simplified, Freight Forwarding, Intermodal Containers, Lex's Aircraft, 
+      Long range delivery drones, Mini Trains, Spidertron Patrols et Beacon Rebalance
+    - Mise à jour des mods suivants : AAI Industry, Cheese's Concentrated Solar, Factory Planner, 
+      Nullius, Omnimatter, Pacifist et Pipe Visualizer
+---------------------------------------------------------------------------------------------------
+Version: 1.1.35
+Date: 05.11.2023
+  Locale:
+    - Ajout des mods suivants : 248k Mod, Cheese's Concentrated Solar, 
+      Display Plates - Ground Signs & Map Markers, Pacifist, Team Competition et 
+      UMR: Ultimate Modular Reactor
+    - Mise à jour des mods suivants : Alien Loot Economy, Asteroid Mining, Biter Reincarnation, 
+      Lighted Electric Poles +, LTN Combinator Modernized, More Ammo, Pipe Visualizer, 
+      Schall Overseas Railway et Shield Generators
+    - Suppression du mod suivant : Tapeline
+---------------------------------------------------------------------------------------------------
+Version: 1.1.34
+Date: 08.10.2023
+  Locale:
+    - Mise à jour des mods suivants : AAI Signal Transmission, Ammo Loader+, Belt Visualizer, 
+      Fluid Level Indicator, Lighted Electric Poles +, Nullius, Renai Transportation et 
+      Rocket-Silo Construction
+---------------------------------------------------------------------------------------------------
+Version: 1.1.33
+Date: 02.09.2023
+  Locale:
+    - Ajout des mods suivants : Noble Metals et IronMan_WarMachine
+    - Mise à jour des mods suivants : Holographic Signs, LTN - Logistic Train Network, Nullius, 
+      Plutonium Energy, Renai Transportation, RPG System et YARM - Resource Monitor
+---------------------------------------------------------------------------------------------------
+Version: 1.1.32
+Date: 06.08.2023
+  Locale:
+    - Ajout des mods suivants : Blueprint Sandboxes, Calculator UI, Circuit Processing, 
+      Dark Matter Replicators .18+, Logistic Network Channels et Necromant
+    - Mise à jour des mods suivants : Belt Visualizer, Cargo Ships, Cybersyn Combinator, 
+      Factory Planner, Holographic Signs, Modular Turrets, Nullius, Plutonium Energy, 
+      Rate Calculator, The Floor Is Lava Revival, Toxic Biters et YARM - Resource Monitor
+---------------------------------------------------------------------------------------------------
+Version: 1.1.31
+Date: 02.07.2023
+  Locale:
+    - Mise à jour des mods suivants : Belt Visualizer, Bottleneck Lite, Cities Of Earth 3, 
+      Cursor Enhancements, Exotic Industries, Exotic Industries: Containers, Extended Descriptions, 
+      Factory Planner, Holographic Signs, Loader Redux, LTN Combinator Modernized, Nullius, 
+      Rate Calculator, Remote Configuration et YARM - Resource Monitor
+---------------------------------------------------------------------------------------------------
+Version: 1.1.30
+Date: 04.06.2023
+  Locale:
+    - Ajout des mods suivants : Better Lamp Contrast, Black Rubber Belts, Doing Things By Hand, 
+      Early Construction, Expensive Landfill, Factorio World, Fluid Must Flow, Fluid Trains, 
+      FUE5 Exporter, Inserter Configuration, Island Locked, Player Reach Research, 
+      Rail Logistics Dispatcher, Reactor Interface, Robocharger, Simple Landfill Mining, 
+      SUPERSONIC High Speed Train & fast large wagon Mod, 
+      Switch Button by GalactusX31 updated for 1.0 et Train Refuel Station et Well Planner
+    - Mise à jour des mods suivants : AAI Industry, Automatic Train Painter, Belt Visualizer, 
+      Bio Industries, Cargo Ships, Cities Of Earth 3, Cybersyn Combinator, Explosive Biters, 
+      Factory Planner, Frost Biters, LTN Combinator Modernized, Rate Calculator, 
+      Renai Transportation, Task List, Toxic Biters, Warptorio2 et YARM - Resource Monitor
+    - Suppression du mod suivant : Armoured Biters et Factorio Library
+---------------------------------------------------------------------------------------------------
+Version: 1.1.29
+Date: 01.05.2023
+  Locale:
+    - Ajout des mods suivants : Car/Tank/Spidertron Locator Button, Cursor Enhancements, 
+      Exotic Industries, Exotic Industries: Containers, Exotic Industries: Fueler, 
+      Exotic Industries: Loaders, Exotic Industries: Robots, Exotic Industries: Tanks, 
+      Pipe Visualizer, Searchlight et Show Max Underground Distance
+    - Mise à jour des mods suivants : Creative Mod, Cybersyn Combinator, Editor Extensions, 
+      Factory Planner, Holographic Signs, LTN Combinator Modernized, MadClown01's Processing, 
+      Project Cybersyn - Logistics Train Dispatcher, Rampant Evolution, Rate Calculator et 
+      Renai Transportation
+    - Suppression du mod suivant : Ultimate Research Queue
+---------------------------------------------------------------------------------------------------
+Version: 1.1.28
+Date: 02.04.2023
+  Locale:
+    - Ajout des mods suivants : Cybersyn Combinator, Dana: crafting tree/graph explorer, 
+      DivOresity, Fluid Level Indicator, Project Cybersyn - Logistics Train Dispatcher, 
+      Remote Configuration, Robot Replacer, Sosciencity [WIP], Splatter Guard, Toxic Biters et 
+      Train Upgrader
+    - Mise à jour des mods suivants : AAI Programmable Vehicles, Avatars, BZ Salt & Chlorine, 
+      BZ Foundry, BZ Tungsten, BZ Zirconium, Editor Extensions, Factorio Library, 
+      Holographic Signs, Light Artillery, Logistic Request Manager (continued), 
+      LTN - Logistic Train Network et Rampant
+---------------------------------------------------------------------------------------------------
+Version: 1.1.27
+Date: 05.03.2023
+  Locale:
+    - Ajout des mods suivants : Tous les mods BZ de brevven (Aluminum, Foundry, 
+      Graphite & Diamonds, Lead, Natural Gas, Optional Advanced BZ Settings, Salt & Chlorine,
+      Silica & Silicon, Tin, Titanium, Tungsten et Zirconium) ainsi que Avatars, Belt Embargo,
+      Shield Generators, Unbarrel et Workbench - Crafting made easier
+    - Mise à jour des mods suivants : Angel's Smelting, Cities Of Earth 3, Explosive Biters,
+      Extended Vanilla: Fusion Reactors, Extended Vanilla: Power Armors et 
+      LTN Combinator Modernized
+---------------------------------------------------------------------------------------------------
+Version: 1.1.26
+Date: 05.02.2023
+  Locale:
+    - Ajout des mods suivants : AAI Loaders, Logistic Cargo Wagon, More Ammo, 
+      Schall Overseas Railway, Schall Virtual Signal et Ultimate Research Queue
+    - Mise à jour des mods suivants : Cities Of Earth 3, Fluidic Power, Ghost Counter, Jetpack, 
+      Placeables: Quickly show items in your inventory that you can build with!, 
+      Renai Transportation, Repair Turret, Screenshot Toolkit et Wire Shortcuts
+    - Suppression du mod suivant : LTN Manager
+---------------------------------------------------------------------------------------------------
+Version: 1.1.25
+Date: 08.01.2023
+  Locale:
+    - Ajout des mods suivants : Actual Craft Times Remade, Armored Train (Turret Wagons), 
+      Belt Visualizer, Brave New World, Cold Biters Expanded, Fluid Permutations, 
+      Infinite Technologies, Resource Map Label Marker, Solar Walls et The Floor Is Lava Revival
+    - Mise à jour des mods suivants : Angel's Addons - Mass Transit, 
+      Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting, 
+      Bob's Adjustable Inserters, Bob's Logistics mod, Bob's Metals, Chemicals and Intermediates, 
+      Bob's Modules, Bob's Personal Equipment mod, Bob's Power, Cities Of Earth 3, Extended Angels, 
+      Factory Planner, Ghost Scanner, Informatron, Lighted Electric Poles +, 
+      LTN - Logistic Train Network, Merging Chests, Nullius, Quick Item Search, Sea Block, 
+      Stack Combinator et Vehicle Wagon 2
+    - Suppression du mod suivant : Factory Search
+---------------------------------------------------------------------------------------------------
+Version: 1.1.24
+Date: 10.12.2022
+  Locale:
+    - Mise à jour des mods suivants : Alien Biomes, Bioluminescence, Biter Reincarnation, 
+      Factorio Library, Holographic Signs, Jetpack et Nullius
+---------------------------------------------------------------------------------------------------
+Version: 1.1.23
+Date: 31.10.2022
+  Locale:
+    - Ajout des mods suivants : Cities Of Earth 3, Nixie Tubes et les mods Omni : Omnilibrary, 
+      Omnimatter, Omnicompression, Omnicrystal, Omnienergy, Omnifluid, Omniscience, Omniwater et 
+      Omniwood.
+    - Mise à jour des mods suivants : Asteroid Mining, Automatic Train Painter, Bioluminescence, 
+      Factory Search, Fluidic Power, Geothermal, Holographic Signs, 
+      Logistic Request Manager (continued), Nullius, Packing Tape, Rate Calculator et Recipe Book.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.22
+Date: 25.09.2022
+  Locale:
+    - Ajout des mods suivants : Electric Weapons, Holographic Signs, LTN Combinator Modernized, 
+      Packing Tape, Rocket-Silo Construction et Shuttle Train Continued
+    - Mise à jour des mods suivants : Asteroid Mining, dangOreus, Factorio Library, 
+      Factory Planner, Fluidic Power, Ghost Counter, Nullius, Pavement Drive Assist Continued et 
+      Renai Transportation
+    - Suppression des mods suivants : Atomic Overhaul
+---------------------------------------------------------------------------------------------------
+Version: 1.1.21
+Date: 28.08.2022
+  Locale:
+    - Ajout des mods suivants : I, Robot, Nullius, Queue To Front et Warptorio2
+    - Mise à jour des mods suivants : Asteroid Mining, Atomic_Overhaul, Bottleneck Lite, 
+      Factory Planner, Hovercrafts, Lightorio, RPG System et Solar Lamp
+---------------------------------------------------------------------------------------------------
+Version: 1.1.20
+Date: 23.07.2022
+  Locale:
+    - Ajout des mods suivants : Blood & Gore Updated, Extended Descriptions, Factoripedia, 
+      Nightfall, Puzzletory, Quicksearch, Tape Measure et Tapeline
+    - Mise à jour des mods suivants : AAI Industry, AAI Vehicles: Miner, Armoured Biters, 
+      Atomic Overhaul, Clockwork, Editor Extensions, Factory Planner, Factory Search, 
+      Ghost Scanner, LTN - Logistic Train Network, Modular Turrets, 
+      Pavement Drive Assist Continued, Screenshot Toolkit, Spidertron Logistics System, 
+      Text Plates et TinyStart
+---------------------------------------------------------------------------------------------------
+Version: 1.1.19
+Date: 26.06.2022
+  Locale:
+    - Ajout des mods suivants : AAI Vehicles: Ironclad, Atomic Overhaul, Big Winter, 
+      Biter Factions, Ice Ore, LTN Cleanup, Not Enough Todo - NET, Precious, precious caffeine 
+      et TerrainEvolution
+    - Mise à jour des mods suivants : Angel's Addons - Storage Options, Angel's Bio Processing, 
+      Angel's Exploration, Angel's Petro Chemical Processing, Angel's Refining, 
+      Bob's Adjustable Inserters, Bob's Metals, Chemicals and Intermediates, Bob's Modules, 
+      Bob's Power, Circuit Controlled Silo, Combat mechanics overhaul, Editor Extensions, 
+      Factory Planner, Factory Search, LTN - Logistic Train Network, Rampant Evolution, 
+      Recipe Book, Sea Block et Updated Construction Drones
+---------------------------------------------------------------------------------------------------
+Version: 1.1.18
+Date: 28.05.2022
+  Changes:
+    - Mise en place de la gestion des références multiples
+  Locale:
+    - Ajout des mods suivants : Deep Mine, Mushroom Cloud, No Wall Repair et Wire Shortcuts
+    - Mise à jour des mods suivants : AAI Signal Transmission, Ammo Loader+, Factory Planner, 
+      Factory Search, Plutonium Energy, Rampant, Recipe Book et Renai Transportation
+    - Suppression des mods suivants : TechTrains (Fix)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.17
+Date: 25.04.2022
+  Locale:
+    - Ajout des mods suivants : Factory Search, Frost Biters, Ghost Counter, More Long Inserters 
+      et TechTrains (Fix)
+    - Mise à jour des mods suivants : Cargo Ships, Factory Planner, Loader Redux, 
+      Nanobots: Early Bots, Pavement Drive Assist Continued, Rampant, Rampant Evolution 
+      et Solar Calculator
+    - Suppression des mods suivants : Cold Biters, Milestones, Realistic Electric Trains (Fork)
+      et Robot Mining Site New
+---------------------------------------------------------------------------------------------------
+Version: 1.1.16
+Date: 27.03.2022
+  Locale:
+    - Mise à jour des mods suivants : AAI Industry, Jetpack, Merging Chests, Recipe Book, 
+      Spidertron Extended, Task List et Wind Turbines
+---------------------------------------------------------------------------------------------------
+Version: 1.1.15
+Date: 28.02.2022
+  Locale:
+    - Ajout des mods suivants : Equipment Gantry, Induction Charging, Regenerate Terrain, 
+      Stats GUI et Steam Trains
+    - Mise à jour des mods suivants : Armoured Biters, LTN Manager, Milestones, Rate Calculator, 
+      Renai Transportation et Task List
+---------------------------------------------------------------------------------------------------
+Version: 1.1.14
+Date: 23.01.2022
+  Locale:
+    - Ajout des mods suivants : Basic Sea Block, Copy Paste Modules, Milestones, 
+      Quick Item Search, Screenshot Toolkit, Spidertron Logistics System, Wind Turbines et 
+      Wreckage Pollution
+    - Mise à jour des mods suivants : AAI Containers & Warehouses, AAI Programmable Vehicles, 
+      AAI Vehicles: Miner, Automatic Train Painter, Deep core mining, Editor Extensions, 
+      Electric Trains, Rampant, Rampant Evolution, Renai Transportation, Train construction site 
+      et Transport Drones
+---------------------------------------------------------------------------------------------------
+Version: 1.1.13
+Date: 23.12.2021
+  Locale:
+    - Ajout des mods suivants : Bottleneck Lite, Change Map Settings, Custom Map Colors,
+      Editor Extensions, Electric Trains, Ghost Scanner, Long and Far Reach, More Roboports,
+      Omega Drill MK2, Plutonium Energy, Quick Charge Personal Bots, Robot Energy,
+      Simple Air Cleaner, Solar Calculator et Task List
+    - Mise à jour des mods suivants : AAI Industry, Angel's Addons - C.A.B.,
+      Angel's Bio Processing, Angel's Exploration, Angel's Petro Chemical Processing,
+      Angel's Refining, Cargo Ships, Crafting Combinator, Factory Planner, Hall of Fame, Honk,
+      Hovercrafts, King's Turret Shields, Logistic Request Manager (continued), Rampant,
+      Rampant Evolution, Rate Calculator, Recipe Book et Sea Block
+---------------------------------------------------------------------------------------------------
+Version: 1.1.12
+Date: 21.11.2021
+  Locale:
+    - Ajout des mods suivants : Belt Balancer
+    - Mise à jour des mods suivants : Extended Vanilla: Personal Defence, 
+      Extended Vanilla: Power Armors, Factorio Library, HelicopterRevival, 
+      LTN - Logistic Train Network, LTN Manager, Nanobots: Early Bots, Rate Calculator, 
+      Recipe Book, Renai Transportation, Robot Army et RPG System
+---------------------------------------------------------------------------------------------------
+Version: 1.1.11
+Date: 24.10.2021
+  Locale:
+    - Mise à jour des mods suivants : AAI Containers & Warehouses, 
+      Extended Vanilla: Fusion Reactors, Extended Vanilla: Power Armors, 
+      Extended Vanilla: Personal Roboports, Far Reach, Rate Calculator et Robot Army
+    - Suppression des mods suivants : Brush tools [ALPHA]
+---------------------------------------------------------------------------------------------------
+Version: 1.1.10
+Date: 27.09.2021
+  Locale:
+    - Mise à jour des mods suivants : AAI Programmable Vehicles, Black Market 2, Extended Angels, 
+      Factorio Library, Hall of Fame, Lighted Electric Poles +, No Belts, Renai Transportation, 
+      RPG System et Train Supply Manager (TSM)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.9
+Date: 22.08.2021
+  Locale:
+    - Ajout des mods suivants : 3x3 Steel Chest, Hover Car [0.18-1.1], Mini Radar, 
+      Personal Battery Pack, Portable Turret et Solar Lamp
+    - Mise à jour des mods suivants : 5Dim's mod - Battlefield, 5Dim's mod - Transport, 
+      Angel's Addons - Mass Transit, Angel's Addons - Storage Options, Angel's Bio Processing, 
+      Angel's Industries, Angel's Petro Chemical Processing, Angel's Refining, Extended Angels, 
+      Generic Logistic Chest, LTN Manager, Recipe Book, Reverse Factory, Sea Block, 
+      Stack Combinator, Total Automization et Unit Control
+    - Suppression des mods suivants : Industrial Display Plates
+---------------------------------------------------------------------------------------------------
+Version: 1.1.8
+Date: 25.07.2021
+  Locale:
+    - Ajout des mods suivants : Armoured Biters, Explosive Biters, Merging Chests Logistic, 
+      Moon Logic, Rampant, Rampant Evolution et Total Automization - RTS Rebalance
+    - Mise à jour des mods suivants : 5Dim's mod - Battlefield, AAI Programmable Vehicles, 
+      Brush tools [ALPHA], Factory Planner, Fluidic Power, Recursive Blueprints, Robot Attrition 
+      et RPG System
+    - Suppression des mods suivants : Void Chest +
+---------------------------------------------------------------------------------------------------
+Version: 1.1.7
+Date: 21.06.2021
+  Locale:
+    - Ajout des mods suivants : Accumulator Wagon, Combat mechanics overhaul, Extended Angels, 
+      Extended Vanilla: Fusion Reactors, Extended Vanilla: Ore Refining, 
+      Extended Vanilla: Personal Defence, Extended Vanilla: Power Armors, Hall of Fame, 
+      Lane Balancer (continued), Logistic Gun Turret, MadClown01's Extended AngelBob Minerals, 
+      MadClown01's Processing, MadClown01's Science, Natural Evolution Buildings2, 
+      Natural Evolution Enemies (fixed), Natural Tree Expansion Reloaded et ShinyBobGFX Continued
+    - Mise à jour des mods suivants : Angel's Addons - C.A.B., Angel's Addons - Mass Transit, 
+      Angel's Addons - Storage Options, Angel's Bio Processing, Angel's Exploration, 
+      Angel's Industries, Angel's Infinite Ores, Angel's Petro Chemical Processing, 
+      Angel's Refining, Angel's Smelting, Brush tools [ALPHA], Bulk Rail Loader, Fluidic Power, 
+      Merging Chests, Renai Transportation et Rocket-Silo Construction
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 24.05.2021
+  Locale:
+    - Ajout des mods suivants : AAI Containers & Warehouses, Automatic Train Fuel Stop, 
+      Bioluminescence, Black Market 2, Broodmother, Brush tools [ALPHA], Closest First for 1.1, 
+      Fluidic Power, Ghost In Hand, HandyHands - Automatic handcrafting, 
+      Logistic Request Manager (continued), Ore Eraser (continued), 
+      Pavement Drive Assist Continued, PlannerCore for 1.1, Power Grid Comb, Rate Calculator, 
+      Realistic Electric Trains (Fork), Recipe Explorer, Robot Mining Site New, Space Solar Panel, 
+      Train Log, Updated Construction Drones et Vill's Recipe Randomizer
+    - Mise à jour des mods suivants : Bob's Functions Library mod, Informatron, Recipe Book et 
+      RPG System
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 24.04.2021
+  Locale:
+    - Ajout des mods suivants : Asteroid Mining, Automatic Station Painter Continued, 
+      Factorio Earth, Food Industry (2.0 beta) et tous les mods FactorioExtended Plus (Core, 
+      Equipment, Logistics, Machines, Power, Storage, Transport et Weaponry)
+    - Mise à jour des mods suivants : Bob's Metals, Chemicals and Intermediates,
+      Bob's Logistics mod, FNEI, HelicopterRevival, Landfill Painting, 
+      Recipe Book, RPG System et Stack Combinator
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 27.03.2021
+  Locale:
+    - Ajout des mods suivants : Dragon Industries - Nauvis Division, Geothermal, Hourly Autosaves,
+      No Belts et Stack Combinator
+    - Mise à jour des mods suivants : AAI Industry, Deep core mining, LTN - Logistic Train Network,
+      Renai Transportation, RPG System, Sea Block et Vehicle Wagon 2
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 22.02.2021
+  Locale:
+    - Ajout des mods suivants : 5Dim's mod - Ores, Alien Loot Economy, Ammo Loader+, Asphalt Roads,
+      Atomic Artillery, Auto Research, Better Air Filtering, Bob's Mods : Alternate Textures, 
+      Crafting Speed Research, Event Listener, Hive Mind, King's Turret Shields, 
+      Robot Battery Research, Schall Satellite Controller, Schall Tank Platoon, TinyStart, 
+      Tral's Robot Tree Farm, Vehicle Grid, Void Chest + et WoodToOil
+    - Mise à jour des mods suivants : AAI Industry, Automatic Train Painter, Bio Industries, 
+      Factory Planner, LTN - Logistic Train Network, Lua API global Variable Viewer (gvv), 
+      Recipe Book, Renai Transportation et RPG System
+    - Suppression des mods suivants : Air Filtering, Robot Tree Farm et Turret Shields
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 29.01.2021
+  Locale:
+    - Ajout des mods suivants : Train Control Signals
+    - Mise à jour des mods suivants : 5Dim's mod - Battlefield, 5Dim's mod - Equipment, Auto Trash,
+      BeltRouter, Bio Industries, Companion Drones, Creative Mod, Death Notice, Even Distribution, 
+      Factory Planner, Friends, Merging Chests, Recipe Book, Renai Transportation, Sea Block, 
+      The Ruins Mod, Transport Drones, Unit Control et YARM - Resource Monitor
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 25.12.2020
+  Locale:
+    - Ajout des mods suivants : Lua API Event Trace, 5Dim's mod - Storage, Companion Drones, 
+      Gear Girl Character et Generic Logistic Chest
+    - Mise à jour des mods suivants : Mods 5Dim (Automatization, Battlefield, Enemies, Energy,
+      Equipment, Infinite Research, Logistic, Mining, Module, Nuclear, Resources, Trains et
+      Transport), Mods AAI (Industry, Vehicles: Flame Tumbler et Vehicles: Warden), Alien Biomes,
+      Mods d'Angel (Bio Processing, Industries, Infinite Ores, Petro Chemical Processing et
+      Refining), Auto Trash, Bio Industries, Mods de Bob (Character classes, Adjustable Inserters,
+      Logistics mod, Metals, Chemicals and Intermediates, Revamp mod et Warfare), Bottleneck, 
+      Cargo Ships, Circuit Controlled Silo, Clockwork, Creative Mod, Deep core mining, 
+      Even Distribution, Extended Vanilla: Mining & Drills, Factorio Power Redux, Factory Planner,
+      Fill4Me, Hiladdar's Core, Improved Research Queue, Larger Lamps, 
+      Lua API global Variable Viewer (gvv), Modular Turrets, Module Inserter, Picker Atheneum,
+      Picker Extended Version, Realistic Flashlight, Robot Attrition, RPG System, 
+      Safety Nuke Launcher, Side Inserters, Train construction site, Treeees et Vehicle Wagon 2
+    - Suppression des mods suivants : Factorio Standard Library et Vanilla Loaders HD.
+  Info:
+    - Les mods qui ne sont pas encore compatibles avec la nouvelle version (1.1) ont également 
+      été retirés. J'espère qu'ils seront de retour très bientôt.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 15.11.2020
+  Locale:
+    - Ajout des mods suivants : Actual Craft Time, BeltRouter, Circuit Controlled Silo, 
+      Cold Biters, Hovercrafts Realism, Improved Research Queue, Industrial Display Plates, 
+      More Science, Placeables: Show everything you can build with!, PlannerCore, 
+      Renai Transportation, Space Solar Panel et Territory Claim
+    - Mise à jour des mods suivants : Angel's Addons - C.A.B., Angel's Addons - Mass Transit, 
+      Angel's Addons - Storage Options, Angel's Bio Processing, Angel's Exploration, 
+      Angel's Industries, Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting, 
+      Auto Trash, Blueprint Flip and Turn, Deep core mining, Reverse Factory et Spaceblock
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 27.10.2020
+  Locale:
+    - Ajout des mods suivants : 5Dim's mod - Enemies, Bob's Functions Library mod, 
+      Cursed Drill Boost, dangOreus, Extended Vanilla: Mining & Drills, Factorio Power Redux, 
+      Factorio Library, Lua API global Variable Viewer (gvv), Island Start, 
+      LTN Combinator for 1.0 & 0.18, Recipe Book et Vadatajs Landfill Removal
+    - Mise à jour des mods suivants : Beekeeping, Biter Reincarnation, Bob's Vehicle Equipment, 
+      Crafting Combinator, Factory Planner, Light Artillery, LTN - Logistic Train Network, 
+      Modular Turrets, Module Inserter, Rocket-Silo Construction, Spidertron Extended, 
+      The Ruins Mod et Train Supply Manager (TSM)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 27.09.2020
+  Locale:
+    - Ajout des mods suivants : LTN Manager [ALPHA], Rich Text Helper et Train construction site
+    - Mise à jour des mods suivants : AAI Signal Transmission, Auto Trash, Flare Stack, 
+      Food Industry (2.0 beta), Jetpack, LTN - Logistic Train Network, Modular Turrets, 
+      Module Inserter, Nanobots: Early Bots, Nuclear Fuel, Rocket-Silo Construction, RPG System,
+      Spidertron Extended et The Ruins Mod
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 29.08.2020
+  Locale:
+    - Ajout des mods suivants : Angel's Addons - Mass Transit, Angel's Addons - Storage Options, 
+      Automatic Station Painter, Bob's Personal Equipment mod, Hiladdar's Belts, Hiladdar's Core, 
+      Hiladdar's Electrical, Hiladdar's Fuels, Hiladdar's Gear, Hiladdar's Manufacturing, 
+      Hiladdar's Mining, Hiladdar's Research, Hiladdar's Robots, Hiladdar's Scrubbers, 
+      Hiladdar's Trains, Hourly Autosaves, Infinizoom et Spidertron Extended
+    - Mise à jour des mods suivants : 5Dim's mod - Battlefield, AAI Industry, AAI Vehicles: Miner, 
+      Angel's Industries, Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting, 
+      Auto Trash, Bio Industries, Bioluminescence, Bob's Adjustable Inserters, Bob's Modules, 
+      Bob's Metals, Chemicals and Intermediates, Cargo Ships, Deep core mining, 
+      Factory Planner, FasterStart, Informatron, Light Artillery, Lighted Electric Poles +, 
+      LTN - Logistic Train Network, Modular Turrets, Module Inserter, Recycling Machines, 
+      Robot Attrition, SPM No Military Science et Train Supply Manager (TSM)
+    - Suppression des mods suivants : Angel's Addons - Crawler Train, Angel's Addons - Ore Silos, 
+      Angel's Addons - Petrochem Train, Angel's Addons - Pressure Tanks, 
+      Angel's Addons - Smelting Train et Angel's Addons - Warehouses
+---------------------------------------------------------------------------------------------------
+Version: 0.18.6
+Date: 20.07.2020
+  Locale:
+    - Ajout des mods suivants : Angel's Addons - Crawler Train, Angel's Exploration, 
+      Automatic Train Painter, Beekeeping, Bioluminescence, Blueprint Flip and Turn, Clockwork, 
+      Closest First, Dragon Industries - Nauvis Division, Factorio Standard Library, 
+      Food Industry (2.0 beta), Friends, Geothermal, Larger Lamps, Light Cone, Lightorio, 
+      Realistic Flashlight, Recycling Machines, Ribbon Maze (fix for 0.18), 
+      Rocket-Silo Construction, SPM No Military Science, Treeees et Vehicle Wagon 2
+    - Mise à jour des mods suivants : AAI Programmable Structures, AAI Vehicles: Miner, 
+      Angel's Addons - C.A.B., Angel's Bio Processing, Angel's Industries, 
+      Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting, Bio Industries, 
+      Bob's Assembling machines, Bob's Metals, Chemicals and Intermediates, Bottleneck, 
+      Deep core mining, Factory Planner, Fill4Me, Light Artillery et Max Rate Calculator
+    - Suppression des mods suivants : LTN Tracker for .18
+---------------------------------------------------------------------------------------------------
+Version: 0.18.5
+Date: 15.06.2020
+  Locale:
+    - Ajout des mods suivants :  Construction Drones, Death Notice, Grappling Gun, Hive Mind,
+      Informatron, Jetpack, Repair Turret, Robot Battery Research, Teleporters, Total Automization
+      et Unit Control
+    - Mise à jour des mods suivants : AAI Industry, AAI Programmable Vehicles,
+      Angel's Addons - Petrochem Train, Angel's Addons - Smelting Train, Angel's Bio Processing,
+      Angel's Industries, Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting,
+      Auto Trash, Bio Industries, Bob's Assembling machines, Bob's Character classes,
+      Bob's Adjustable Inserters, Bob's Logistics mod, Bob's Modules,
+      Bob's Metals, Chemicals and Intermediates, Bob's Power, Bob's Vehicle Equipment,
+      Bob's Warfare, Creative Mod, Factory Planner, Hovercrafts, LTN - Logistic Train Network,
+      RPG System et Train Supply Manager (TSM) et Transport Drones
+    - Suppression des mods suivants : Auto Deconstruct, Noxys Trees, Noxys Waterfill et VehicleSnap
+---------------------------------------------------------------------------------------------------
+Version: 0.18.4
+Date: 17.05.2020
+  Locale:
+    - Ajout des mods suivants : Advanced Furnaces, Crafting Combinator, Explosive Excavation,
+      FasterStart, Honk, Manual Inventory Sorting, Merging Chests, Modular Turrets, 
+      Noxys Waterfill, Omega Drill, Pavement Drive Assist, Picker Atheneum, Power And Armor, 
+      Recursive Blueprints, Robot Mining Site, Spaceblock, Storage Tank Mk2, 
+      Train Supply Manager (TSM), Turret Shields et Ultimate Belts
+    - Mise à jour des mods suivants : AAI Industry, AAI Signal Transmission, Alien Biomes, 
+      Angel's Addons - Petrochem Train, Angel's Addons - Smelting Train, Angel's Bio Processing,
+      Angel's Industries, Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting,
+      Asphalt Roads, Bio Industries, Bob's Character classes, Bob's Greenhouse mod, 
+      Bob's Metals, Chemicals and Intermediates, Bob's Revamp mod, Bob's Warfare, 
+      Enchanted Industries & Chemicals, Enhanced Map Colors, Factory Planner, Flare Stack, 
+      LTN - Logistic Train Network, Nanobots: Early Bots, Picker Extended Version,
+      Quality of Life research, Robot Tree Farm et Transport Drones
+---------------------------------------------------------------------------------------------------
+Version: 0.18.3
+Date: 28.03.2020
+  Locale:
+    - Ajout de tous les mods 5Dim
+    - Ajout des mods suivants : Angel's Smelting Patch, Asphalt Roads, Auto Trash,
+      Bob's Mods : Alternate Textures, Bulk Rail Loader, CJs QualityOfLife Research 01,
+      Enchanted Electronics, Enchanted Industries & Chemicals, Enchanted Nuclear, 
+      Enhanced Map Colors, Far Reach, Flare Stack, HelicopterRevival, Landfill Painting,
+      Lighted Electric Poles +, Long Reach, Lumberjack, Max Rate Calculator, Module Inserter,
+      Natural Evolution Enemies, Natural Evolution Buildings, Nuclear Fuel, 
+      Realistic_Electric_Trains, Quality of Life research, Robot Attrition, Robot Army,
+      RPG System, ShinyAngelGFX, ShinyBobGFX, Smarter Trains, Space Extension Mod (SpaceX),
+      TechTrains (Fix), Transport Drones, Vanilla Loaders HD, Deep core mining et 
+      What is it really used for?
+    - Mise à jour des mods suivants : AAI Industry, AAI Programmable Vehicles, 
+      Angel's Addons - Petrochem Train, Angel's Addons - Smelting Train, Angel's Bio Processing,
+      Angel's Industries, Angel's Petro Chemical Processing, Angel's Refining, Angel's Smelting,
+      Bio Industries, Bob's Assembling machines, Bob's Character classes, Bob's Logistics mod,
+      Bob's Metals, Chemicals and Intermediates, Bob's Power, Bob's Warfare, Even Distribution,
+      Factory Planner, Nanobots: Early Bots et Picker Extended Version
+---------------------------------------------------------------------------------------------------
+Version: 0.18.2
+Date: 22.02.2020
+  Locale:
+    - Ajout de tous les mods d'Angel
+    - Ajout des mods suivants : Hovercraft, Sea Block, Event Listener, Mining Drones, 
+      LTN Tracker_2, Biter Reincarnation, Charcoal Burner, M.I.R.V., 
+      Extended Vanilla - Roboports, Natural Tree Expansion Reloaded, Safety Nuke Launcher,
+      WoodToOil et Wood-Walls
+    - Mise à jour des mods suivants : Bottleneck, Factory Planner, Tree Nuke et Bio Industries
+---------------------------------------------------------------------------------------------------
+Version: 0.18.1
+Date: 08.02.2020
+  Info:
+    - Mise à jour de tous les mods présents dans la version précédente vers la 0.18.
+    - Les mods qui sont encore en 0.17 ne sont plus repris. Ils seront de retour prochainement.
+  Locale:
+    - Ajout des mods suivants : The Ruins Mod, Air filtering, Angel's Infinite Ores,
+      BiusArt Light poles, Beautiful Bridge Railway, Crafting Speed Research, Disco Science, 
+      Electric Furnaces, Fill4Me, Fire Department, Light Artillery, Noxys Trees,
+      Picker Extended Version, Robot Tree Farm, Side Inserters, Toxic Forest, Tree Nuke,
+      VehicleSnap et Wood Gasification
+---------------------------------------------------------------------------------------------------
+Version: 0.17.29
+Date: 23.12.2019
+  Locale:
+    - Corrections pour le mod Bob's Electronics.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.28
+Date: 22.12.2019
+  Locale:
+    - Mise à jour de tous les mods de Bob.
+    - Mise à jour des mods suivants : Advanced Electric Revamped, Bottelneck, Cargo Ships, 
+      Islands World, LTN (Logistic Train Network), Santa's Nixie Tube Display, Textplates
+    - Ajout des mods suivants : Alien Biomes, AutoDeconstruct, Even Distribution, EvoGUI,
+      Factorissimo2, Factory Planner, FNEI, Loader Redux, LTN Combinator, LTN Tracker, 
+      NanoBots, Reverse Factory, RSO, Squeak Through, Todo-List et YARM

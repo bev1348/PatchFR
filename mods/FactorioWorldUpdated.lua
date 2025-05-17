@@ -1,0 +1,5 @@
+return {
+    ---------------
+    --FactorioWorldUpdated.cfg
+    -------------------------
+}
