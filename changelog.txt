@@ -1,4 +1,28 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.8
+Date: 08.06.2025
+  Locale:
+    - Ajout des mods suivants : Alternate Science Packs, Big Power Poles, 
+      Colour Blind Friendly Science Packs, Change Inserter Drop Lane, Cupric Asteroids, 
+      Cursor Craft, Equipment Grid for Wagons, Elevated pipes, Exiguous Train Caller, 
+      Exotic Industries: Robots (fork), Exotic Industries: Loaders (2.0 Port), 
+      Exotic Space Industries, Flamethrower Wagon, Hard Aquilo, Hard Fulgora, Hard Gleba, 
+      Hard Tech Tree, Hard Vulcanus, Louder Wagons, Parallel Research, Power Satellites, 
+      Rocket Silo Stats, Rusting Iron, Space debris, Spidertron Enhancements, The Sun is Dead, 
+      Train Trails, Turret library, Vibrant Train Colors et Water pumpjack
+    - Mise à jour des mods suivants : Big-Monsters, Blueprint Sandboxes, Blueprint Shotgun, 
+      BZ Graphite & Diamonds, BZ Lead, Electric Grid, Enemy Race Manager, exfret's randomizer, 
+      Factorio crash site (and legacy items), Super Farm, Induction Charging Revamp, Infinizoom, 
+      Inverted Quality, Lane balancers, More Long Inserters, Picker Extended Reborn, 
+      Planet Hoppers [v3!], Pyanodons Alien Life, Pyanodons Alternative Energy, 
+      Pyanodons Coal Processing, Pyanodons High Tech, Pyanodons Industry, 
+      Pyanodons Post Processing, Pyanodons Raw Ores, Rampant fixed, Shield Generators, 
+      Spidertron Automation, Spidertron Extended, Spidertron Patrols, 
+      Subsurface - build beneath your base!, Team Competition, Valves, 
+      Vill's Recipe Randomizer (2.x) et Warptorio 2.0 (Space Age)
+    - Suppression des mods suivants : Factory Planner, Solar Productivity et Editor Extensions
+  Changes: Réduction du système de passage par le code Lua uniquement aux doublons
+---------------------------------------------------------------------------------------------------
 Version: 2.0.7
 Date: 04.05.2025
   Locale:
