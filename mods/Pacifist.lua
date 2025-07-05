@@ -39,6 +39,8 @@ return {
         ["firearm-magazine"]="Chargeur de projectiles à dégâts physiques",
         ["heavy-armor"]="Combinaison de protection lourde",
         ["laser-turret"]="Défense laser contre les astéroïdes",
+        ["grenade"]="Détonateur",
+        ["atomic-bomb"]="Détonateur nucléaire",
         ["light-armor"]="Combinaison de protection",
         ["modular-armor"]="Combinaison modulaire",
         ["pentapod-egg"]="Gousse gluante",

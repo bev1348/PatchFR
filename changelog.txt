@@ -1,4 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.9
+Date: 06.07.2025
+  Locale:
+    - Ajout des mods suivants : Asteroid Belt, Promethium is Quality, Recipe Logistic Groups, 
+      SafeAFK et SPM Check
+    - Mise à jour des mods suivants : AAI Industry, Alien Biomes, Blueprint Sandboxes, 
+      Blueprint Shotgun, Bob's Enemies, Bob's Logistics mod, Bob's Tech, Dredgeworks, 
+      Exotic Space Industries, Holographic Signs, King Jo's Fuels, Pacifist, Parallel Research, 
+      Planet Arrakis, Planet Hoppers [v3!], Pyanodons Alien Life, Pyanodons Petroleum Handling, 
+      Rampant, fixed, Reverse Factory, Rocket-Silo Construction, 
+      Subsurface - build beneath your base!, Team Competition, Valves, Vehicle Wagon 2 et 
+      Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.8
 Date: 08.06.2025
   Locale:

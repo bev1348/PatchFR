@@ -94,6 +94,7 @@ return {
     },
     ["item-name"] = {
         ["advanced-circuit"]="Circuit électronique avancé",
+        ["atomic-bomb"]="Bombe atomique",
         ["barrel"]="Baril",
         ["cannon-shell"]="Obus",
         ["copper-plate"]="Plaque de cuivre",
@@ -103,6 +104,7 @@ return {
         ["explosive-cannon-shell"]="Obus explosif",
         ["explosive-uranium-cannon-shell"]="Obus explosif à uranium",
         ["firearm-magazine"]="Chargeur",
+        ["grenade"]="Grenade",
         ["heavy-armor"]="Armure lourde",
         ["iron-plate"]="Plaque de fer",
         ["lab"]="Laboratoire",
