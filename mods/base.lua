@@ -80,13 +80,16 @@ return {
         ["chemical"]="Combustible",
     },
     ["item-description"] = {
+        ["coal"]="",
         ["hazard-concrete"]="",
         ["landfill"]="Peut être placé sur l'eau pour créer un terrain sur lequel vous pouvez construire.",
         ["refined-concrete"]="",
         ["refined-hazard-concrete"]="",
         ["solar-panel-equipment"]="Fournit de l'énergie pour les modules d'armure.",
+        ["solid-fuel"]="",
         ["space-science-pack"]="Utilisés dans les laboratoires pour faire des recherches. Obtenus en lançant des satellites dans l'espace.",
         ["spidertron-remote"]="",
+        ["wood"]="",
     },
     ["item-group-name"] = {
         ["combat"]="Combat",
@@ -132,6 +135,7 @@ return {
         ["automation"]="Technologie clé pour la production automatisée en masse.",
         ["automation-2"]="Machines d'assemblages capables de traiter des ingrédients fluides.",
         ["automation-3"]="Machines d'assemblages capables de traiter des fluides, avec davantage de vitesse et d'emplacements de modules.",
+        ["automation-science-pack"]="Permet la recherche de méthodes d'automatisation de base.",
         ["battery-equipment"]="À placer dans une armure. Accumule l'excès d'énergie pour un usage ultérieur.",
         ["battery-mk2-equipment"]="À placer dans une armure. Accumule une grande quantité d'énergie pour un usage ultérieur.",
         ["belt-immunity-equipment"]="Équipement à insérer dans votre armure afin que les convoyeurs ne puissent pas vous déplacer.",
@@ -201,10 +205,6 @@ return {
         ["water-green"]="Eau verte",
     },
     ["virtual-signal-name"] = {
-        ["signal-minus"]="Moins",
-        ["signal-percent"]="Pour cent",
-        ["signal-plus"]="Plus",
-        ["signal-slash"]="Barre oblique",
         ["signal-speed"]="Vitesse",
     }
     -------------------------

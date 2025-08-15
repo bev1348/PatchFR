@@ -1,4 +1,22 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.10
+Date: 15.08.2025
+  Locale:
+    - Ajout des mods suivants : Autodrive, Bio Industries, Circuit Launchable Rockets, 
+      Demolisher Agriculture, Demolisher compass, 
+      Display Plates - Ground Signs & Map Markers - Forked, Gizmos Car Keys (improved), 
+      Glowing Trees, Respawn Block, Scrappy Industry, Show Demolisher Territory on Surface, 
+      Auto Research (fixed + re-published abandoned mod), Vacuum Cleaner, Void Block et Voidcraft
+    - Mise à jour des mods suivants : Advanced Belts, Alien Loot Economy, Asteroid Mining, 
+      Elevated pipes, Exotic Industries: Loaders (2.0 Port), Exotic Space Industries, 
+      Extended Vanilla: Refining, Fulgoran enemies, Lane balancers, Nixie Tubes, P.U.M.P., 
+      Pacifist, Picker Extended Reborn, Planet Arrakis, Pushbutton, Pyanodons Alien Life, 
+      Pyanodons Alternative Energy, Pyanodons Coal Processing, Pyanodons Petroleum Handling, 
+      Quality upgrade planner, Rampant, fixed, Robot Army, Spidertron Extended, 
+      Subsurface - build beneath your base!, The Ruins Mod Updated (Time fork), Valves, 
+      Vehicle Wagon 2 et Warptorio 2.0 (Space Age)
+    - Suppression des mods suivants : Cheese's Concentrated Solar
+---------------------------------------------------------------------------------------------------
 Version: 2.0.9
 Date: 06.07.2025
   Locale:

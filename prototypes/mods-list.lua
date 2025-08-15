@@ -14,6 +14,7 @@ return {
     "AdvancedBeltsSA",
     "big-mining-drill",
     "Big-Monsters",
+    "Bio_Industries_2",
     "bobclasses",
     "bobelectronics",
     "bobenemies",
@@ -45,7 +46,6 @@ return {
     "LargerLamps-2_0",
     "Load-Furn-2-SpaceAgeFix",
     "More_Ammo",
-    "nixie-tubes",
     "Nuclear Fuel",
     "omnimatter_energy",
     "Pacifist",
@@ -67,11 +67,14 @@ return {
     "SchallEndgameEvolution",
     "SchallSatelliteController",
     "SchallTankPlatoon",
+    "scrap-industry",
     "scrap-resource",
     "SpidertronPatrols",
     "team_competition",
     "tenebris",
     "territory_claim",
     "UltimateBeltsSpaceAge",
-    "wret-beacon-rebalance-mod"
+    "wret-beacon-rebalance-mod",
+  ---
+    "Krastorio2"
 }

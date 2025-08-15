@@ -1,12 +1,6 @@
 return {
     ---------------
     --pycoalprocessing.cfg
-    ["achievement-description"] = {
-        ["smoke-me-a-kipper-i-will-be-back-for-breakfast"]="Une victoire qui inflige au vainqueur un coût si dévastateur qu'elle équivaut à une défaite.",
-    },
-    ["achievement-name"] = {
-        ["smoke-me-a-kipper-i-will-be-back-for-breakfast"]="Victoire à la Pyrrhus",
-    },
     ["entity-name"] = {
         ["assembling-machine-1"]="Machine d'assemblage thermique MK1",
         ["assembling-machine-2"]="Machine d'assemblage thermique MK2",

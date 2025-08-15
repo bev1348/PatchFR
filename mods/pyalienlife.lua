@@ -15,13 +15,14 @@ return {
     ["item-description"] = {
         ["chitin"]="Composant principal de l'exosquelette des arthropodes.",
         ["chitosan"]="Il s'agit simplement d'un polysaccharide linéaire très utile.",
+        ["fertilizer"]="Nourriture pour les plantes.",
         ["moss"]="Certains peuvent coder le rythme des algues.",
         ["ralesia"]="Fleur génétiquement modifiée sur mesure.",
         ["space-dingrit"]="Un petit pas pour Rover, un grand pas pour la Roverité.",
         ["spidertron-remote"]="Permet d'envoyer des commandes de déplacement simples à la monture depuis la carte ou le monde.",
     },
     ["item-name"] = {
-        ["dried-meat"]="Viande, viande séchée",
+        ["dried-meat"]="Viande séchée",
         ["spidertron-remote"]="Télécommande pour monture",
     },
     ["shortcut"] = {

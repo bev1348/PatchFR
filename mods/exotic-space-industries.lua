@@ -10,6 +10,8 @@ return {
     ["item-name"] = {
         ["copper-plate"]="Lingot de cuivre",
         ["iron-plate"]="Lingot de fer",
+        ["kr-ai-core"]="Cœur de la recherche sur l'IA",
+        ["kr-silicon"]="Silicium de faible pureté",
         ["steel-plate"]="Lingot d'acier",
     },
     ["recipe-name"] = {
