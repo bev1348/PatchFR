@@ -69,6 +69,7 @@ return {
         ["railgun-damage"]="Dégâts des canons électromagnétiques",
         ["railgun-shooting-speed"]="Vitesse de tir des canons électromagnétiques",
         ["rocket-turret"]="Tourelle lance-missile",
+        ["tree-seeding"]="Semis d'arbres",
     },
     ["tips-and-tricks-item-description"] = {
         ["spoilables-research"]="Le [item=agricultural-science-pack] perd de sa valeur au fur et à mesure qu'il s'abîme.",

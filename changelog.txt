@@ -1,4 +1,26 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.11
+Date: 07.09.2025
+  Locale:
+    - Ajout des mods suivants : Age of Production, Bullet Tracers (Ownly's), Celestial Weather, 
+      Change Inserter Drop Lane with Research, Circuit Visualizer, Crushing Industry, 
+      Crushing Industry - Productivity Research, Death Counter, Diurnal Dynamics, Diversitree, 
+      doeWorks Rocket Artillery, EarthMaps, Even Pickier Dollies, Far Reach (Prototype level),
+      Fire Lights, Hot metals, Igrys, Ironclad gunboat and mortar turret (fork), Lignumis, 
+      Mission Tasks - A collaborative TODO list, Oil Outpost Planner, Planet Paracelsin, 
+      Pollution Scaling, Pollution: Impactful Smog / Spore Cloud, Polygonal Quality Icons, 
+      Quality condenser, Quality Down-Binning, Qualité++ | Qualités étendues, 
+      Redrawn Space Connections, Reset Evolution and Pollution - Space Age, Resource Monitor, 
+      Rocket Cargo Insertion, Science group, Spaghetti Belt Tools, Statistics Combinators Updated, 
+      Stats GUI — Movement Speed, Tile Upgrade Planner (Muluna Fork), Vehicle Physics, 
+      Visible Planets Scale, Wooden Aquilo: Seabloom Algaculture, 
+      Wooden Fulgora: Coralmium Agriculture, Wooden Industry et Wooden Military
+    - Mise à jour des mods suivants : Advanced Belts, Alien Loot Economy, Bio Industries, 
+      Display Plates - Ground Signs & Map Markers - Forked, exfret's randomizer, Hard Aquilo, 
+      Hard Fulgora, Hard Gleba, Hard Vulcanus, Lane balancers, Parallel Research, Planet Hoppers, 
+      Pyanodons Alien Life, Pyanodons Alternative Energy, Pyanodons Post Processing, RPG System, 
+      Team Competition et Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.10
 Date: 15.08.2025
   Locale:
