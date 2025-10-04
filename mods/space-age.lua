@@ -36,6 +36,7 @@ return {
         ["captive-biter-spawner"]="Nid de déchiqueteur captif",
         ["capture-robot-rocket"]="Missile de capture",
         ["lithium"]="Lithium",
+        ["mech-armor"]="Armure Mécha",
         ["pentapod-egg"]="Oeuf de pentapode",
         ["railgun"]="Canon électromagnétique",
         ["railgun-ammo"]="Munition pour canon électromagnétique",

@@ -1,6 +1,9 @@
 return {
     ---------------
     --base(doublons).cfg
+    ["ammo-category-name"] = {
+        ["bullet"]="Balle",
+    },
     ["achievement-description"] = {
         ["computer-age-1"]="Produire 500 processeurs par heure.",
         ["computer-age-2"]="Produire 1000 processeurs par heure.",
@@ -165,6 +168,7 @@ return {
         ["rocket-silo"]="Permet de lancer une fusée dans l’espace et de gagner la partie.",
         ["solar-energy"]="Source d'énergie électrique gratuite, ne fonctionnant cependant que le jour.",
         ["solar-panel-equipment"]="À placer dans une armure. Fournit de l'énergie aux autres équipements, mais ne fonctionne pas la nuit.",
+        ["space-science-pack"]="Permet d'envoyer des fusées de recherche dans l'espace et d'en recevoir des données scientifiques utilisées pour produire des packs de science spatiale.",
         ["steam-power"]="",
         ["stronger-explosives"]="Augmente les dégâts des armes explosives.",
         ["tank"]="Véhicule offensif puissant sur lequel de nombreux équipements et armes peuvent être installés.",
@@ -191,6 +195,7 @@ return {
         ["robotics"]="Robotique",
         ["solar-energy"]="Énergie solaire",
         ["solar-panel-equipment"]="Panneau solaire portatif",
+        ["space-science-pack"]="Pack de science spatiale",
         ["spidertron"]="Spidertron",
         ["stronger-explosives"]="Explosifs avancés",
         ["uranium-processing"]="Procédé d'enrichissement de l'uranium",

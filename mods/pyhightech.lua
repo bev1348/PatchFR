@@ -16,6 +16,7 @@ return {
         ["electronics"]="Débloque des circuits très basiques à base de tubes à vide",
         ["graphene"]="Débloque les technologies et la production de graphène.",
         ["quantum-processor"]="Débloque les composants et les technologies à l'échelle nanométrique.",
+        ["space-science-pack"]="Débloque les technologies quantiques et l'ordinateur quantique.",
     },
     ["technology-name"] = {
         ["advanced-circuit"]="Électronique - Étape 3",
@@ -29,6 +30,7 @@ return {
         ["kicalk"]="Kicalk",
         ["moondrop"]="Moondrop",
         ["quantum-processor"]="Électronique - Étape 4",
+        ["space-science-pack"]="Informatique quantique",
         ["zipir"]="Zipir",
     }
     -------------------------

@@ -2,6 +2,7 @@ return {
     ---------------
     --Pacifist.cfg
     ["ammo-category-name"] = {
+        ["bullet"]="Projectile d'attaque physique",
         ["railgun"]="Projectile de haute vitesse",
     },
     ["entity-description"] = {
@@ -42,6 +43,7 @@ return {
         ["grenade"]="Détonateur",
         ["atomic-bomb"]="Détonateur nucléaire",
         ["light-armor"]="Combinaison de protection",
+        ["mech-armor"]="Combinaison spatiale Mécha",
         ["modular-armor"]="Combinaison modulaire",
         ["pentapod-egg"]="Gousse gluante",
         ["piercing-rounds-magazine"]="Chargeur de projectiles denses",

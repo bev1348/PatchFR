@@ -1,4 +1,19 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.12
+Date: 05.10.2025
+  Locale:
+    - Ajout des mods suivants : 248k Redux Mod, A beautiful cottage for the engineer,
+      Biter Factions NG, Charcoal From Wood, Deep Mine 2, Electric Grid Enforcer, Events Logger,
+      EvoUI, Hide Elevated Rail Keybind, Library for mods by Pi-C et Sign post
+    - Mise à jour des mods suivants : Alien Loot Economy, Autodrive, Bio Industries,
+      Canal Excavator, Crushing Industry - Productivity Research, Enemy Race Manager,
+      Exotic Space Industries, Far Reach, Fire Lights, Gizmos Car Keys (improved), Glowing Trees,
+      Hard Aquilo, Hard Vulcanus, HelicopterRevival, Lignumis, LTN - Logistic Train Network,
+      Mission Tasks - A collaborative TODO list, Pacifist, Planet Paracelsin,
+      Pyanodons Alien Life, Pyanodons Coal Processing, Pyanodons High Tech,
+      Pyanodons Petroleum Handling, Pyanodons Post Processing, Quality condenser, Rampant, fixed,
+      Robot Quick Start, Rocket-Silo Construction et Subsurface - build beneath your base!
+---------------------------------------------------------------------------------------------------
 Version: 2.0.11
 Date: 07.09.2025
   Locale:
@@ -9,7 +24,7 @@ Date: 07.09.2025
       Fire Lights, Hot metals, Igrys, Ironclad gunboat and mortar turret (fork), Lignumis, 
       Mission Tasks - A collaborative TODO list, Oil Outpost Planner, Planet Paracelsin, 
       Pollution Scaling, Pollution: Impactful Smog / Spore Cloud, Polygonal Quality Icons, 
-      Quality condenser, Quality Down-Binning, Qualité++ | Qualités étendues, 
+      Quality condenser, Quality Down-Binning, Quality++ | Extended Qualities, 
       Redrawn Space Connections, Reset Evolution and Pollution - Space Age, Resource Monitor, 
       Rocket Cargo Insertion, Science group, Spaghetti Belt Tools, Statistics Combinators Updated, 
       Stats GUI — Movement Speed, Tile Upgrade Planner (Muluna Fork), Vehicle Physics, 
