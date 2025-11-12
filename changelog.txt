@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.13
+Date: 11.11.2025
+  Locale:
+    - Ajout des mods suivants : Concreep Redux, Crosscheck Quality Names, Everything Spoilage, 
+      IPL - Inter Platform Logistics, Miniloader (Redux) et Planet Pelagos
+    - Mise à jour des mods suivants : Bio Industries, Canal Excavator, Cargo Ships, 
+      Circuit Launchable Rockets, Crushing Industry, Foodtorio, Gleba Reborn, HelicopterRevival, 
+      Igrys, Inserter Fuel Leech, Lignumis, More Long Inserters, Pacifist, Planet Paracelsin, 
+      Pyanodons Alien Life, Reverse Factory, Robot Army, Scrappy Industry, 
+      Subsurface - build beneath your base!, Voidcraft et Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.12
 Date: 05.10.2025
   Locale:

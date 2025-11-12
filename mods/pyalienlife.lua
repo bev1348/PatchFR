@@ -20,6 +20,7 @@ return {
         ["ralesia"]="Fleur génétiquement modifiée sur mesure.",
         ["space-dingrit"]="Un petit pas pour Rover, un grand pas pour la Roverité.",
         ["spidertron-remote"]="Permet d'envoyer des commandes de déplacement simples à la monture depuis la carte ou le monde.",
+        ["sugar"]="Nectar de Tuuphra pur.",
     },
     ["item-name"] = {
         ["dried-meat"]="Viande séchée",

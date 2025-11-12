@@ -5,8 +5,8 @@ return {
         ["optical-fiber"]="Câble utilisé pour la fibre optique, y compris les réseaux logiques.",
     },
     ["item-name"] = {
-        ["silicon"]="Plaque de silicium",
-        ["silicon-wafer"]="Tranche de silicium",
+        ["silicon"]="Silicium",
+        ["silicon-wafer"]="Plaque de silicium",
     }
     -------------------------
 }

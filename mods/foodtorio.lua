@@ -20,6 +20,10 @@ return {
         ["tomato"]="Tomate",
         ["vinegar"]="Vinaigre",
         ["wheat"]="Blé",
+        ["egg"]="Ingrédient essentiel à la pâtisserie, produit aussi à partir de blé et d'eau.",
+        ["orange"]="Fruit juteux utilisé pour la fabrication de confitures et de gelées.",
+        ["sugar"]="Cristaux raffinés pour desserts et pâtisseries.",
+        ["sugarcane"]="Source de sucre brut utilisée pour fabriquer du sucre.",
     },
     ["item-name"] = {
         ["salt"]="Sel",

@@ -75,6 +75,15 @@ return {
     ["tips-and-tricks-item-description"] = {
         ["spoilables-research"]="Le [item=agricultural-science-pack] perd de sa valeur au fur et à mesure qu'il s'abîme.",
         ["spoilables-result"]="L'évolution du pourrissement d'un ingrédient détermine aussi l'évolution du pourrissement du produit.",
+    },
+    ["achievement-description"] = {
+        ["look-at-my-shiny-rare-armor"]="S'équiper d'une armure de puissance MK2 de qualité rare ou plus, ou d'une armure Mécha.",
+        ["my-modules-are-legendary"]="Fabriquer un module de qualité 3 légendaire.",
+        ["no-room-for-more"]="Remplissez chaque emplacement d'une armure Mécha légendaire avec des équipements légendaires.",
+        ["todays-fish-is-trout-a-la-creme"]="Mangez un poisson légendaire.",
+    },
+    ["achievement-name"] = {
+        ["my-modules-are-legendary"]="Mes modules sont légendaires",
     }
     -------------------------
 }

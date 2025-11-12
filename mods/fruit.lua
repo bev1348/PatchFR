@@ -15,6 +15,9 @@ return {
         ["tomato"]="Fruit rouge juteux souvent utilisé comme légume dans la cuisine.",
         ["vinegar"]="Liquide au goût aigre contenant de l'acide acétique, obtenu par fermentation de liquides alcooliques, utilisé dans la cuisine ou la conservation.",
         ["wheat"]="Graminée produisant des grains, largement cultivée pour l'alimentation. C'est une source importante d'hydrates de carbone.",
+        ["egg"]="Un œuf de poule, polyvalent et utilisé dans de nombreuses recettes.",
+        ["orange"]="Agrumes à la saveur acidulée, connus pour leur teneur en vitamine C.",
+        ["sugarcane"]="Une herbe haute qui produit un jus sucré utilisé pour fabriquer du sucre et d'autres produits.",
     },
     ["item-name"] = {
         ["coffee-powder"]="Café en poudre",

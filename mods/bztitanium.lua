@@ -6,6 +6,9 @@ return {
     },
     ["technology-name"] = {
         ["fluid-mining"]="Fluide d'exploitation minière",
+    },
+    ["item-name"] = {
+        ["titanium-dust"]="Poudre de titane",
     }
     -------------------------
 }
