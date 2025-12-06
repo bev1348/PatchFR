@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.14
+Date: 07.12.2025
+  Locale:
+    - Ajout des mods suivants : Artillery sound enhancer Factorio 2.0, Astroponics, 
+      Everything on Nauvis, 🌐Planet Rubia, RA2 Speaker Sound Pack, 
+      Soundpack: Alerts and Sirens Updated, StarMap Background, Wooden Cerys: Lunaponics et 
+      Wooden Moshine: Solaponics
+    - Mise à jour des mods suivants : AAI Industry, Abandoned Ruins - Updated (core), 
+      Blueprint Shotgun, Canal Excavator, Crushing Industry, Electric Grid, Enemy Race Manager, 
+      Fire Place 2.0, Gleba Reborn, Igrys, Inserter Configuration, Lignumis, 
+      LTN - Logistic Train Network, Missile Defense Systems, P.U.M.P., Planet Hoppers, 
+      Planet Paracelsin, Planet Pelagos, Scrappy Industry, Spaghetti Belt Tools, 
+      Subsurface - build beneath your base!, Visible Planets Scale et Voidcraft
+---------------------------------------------------------------------------------------------------
 Version: 2.0.13
 Date: 11.11.2025
   Locale:

@@ -6,6 +6,7 @@ return {
         ["small-electric-pole"]="Petit poteau électrique en bois",
         ["small-iron-electric-pole"]="Petit poteau électrique en fer",
         ["stone-wall"]="Mur en pierre",
+        ["gate"]="Porte en pierre",
     },
     ["fuel-category-name"] = {
         ["chemical"]="Carburant",
@@ -25,6 +26,7 @@ return {
         ["electric-engine"]="Grand moteur électrique",
         ["engine"]="Moteur multicylindre",
         ["logistics-0"]="Logistique de base 2",
+        ["gate"]="Portes en pierre",
     },
     ["tile-name"] = {
         ["stone-path"]="Chemin de brique",

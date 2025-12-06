@@ -200,6 +200,7 @@ return {
         ["stronger-explosives"]="Explosifs avancés",
         ["uranium-processing"]="Procédé d'enrichissement de l'uranium",
         ["weapon-shooting-speed"]="Vitesse de tir des armes",
+        ["gate"]="Porte",
     },
     ["tile-description"] = {
         ["water-green"]="",
