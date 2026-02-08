@@ -3,6 +3,7 @@ return {
     --pelagos.cfg
     ["entity-name"] = {
         ["canex-excavator"]="Excavatrice diesel",
+        ["steam-inserter"]="Bras à vapeur",
     },
     ["item-name"] = {
         ["canex-excavator"]="Excavatrice diesel",

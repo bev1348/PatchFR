@@ -1,6 +1,9 @@
 return {
     ---------------
     --pycoalprocessing.cfg
+    ["achievement-description"] = {
+        ["lazy-bastard"]="Lancer une fusée dans l'espace tout en fabriquant manuellement pas plus de 250 objets.",
+    },
     ["entity-name"] = {
         ["assembling-machine-1"]="Machine d'assemblage thermique MK1",
         ["assembling-machine-2"]="Machine d'assemblage thermique MK2",
@@ -17,11 +20,10 @@ return {
         ["sand"]="La plus petite partie d'une planète rocheuse.",
     },
     ["item-name"] = {
-        ["barrel"]="Barril vide",
+        ["barrel"]="Baril vide",
         ["salt"]="Sel (chlorure de sodium)",
     },
     ["recipe-name"] = {
-        ["coal-dust"]="Broyer le charbon en poussière de charbon",
         ["crushed-copper"]="Broyer le cuivre",
         ["crushed-iron"]="Broyer le fer",
         ["stone-distilation"]="Distillation destructive de la pierre",
@@ -35,7 +37,7 @@ return {
     },
     ["technology-name"] = {
         ["automation"]="Assemblage",
-        ["cargo-landing-pad-capacity"]="Capacité de l'aire d'atterrissage cargo",
+        ["cargo-landing-pad-capacity"]="Nombre d'aires d'atterrissage cargo",
         ["mukmoux"]="Mukmoux",
         ["oil-processing"]="Extraction du pétrole",
         ["syngas"]="Gaz de synthèse",

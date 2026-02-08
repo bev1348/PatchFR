@@ -7,6 +7,9 @@ return {
     ["technology-name"] = {
         ["automation"]="Automatisation électrique",
         ["tree-seeding"]="Agriculture de base",
+    },
+    ["entity-name"] = {
+        ["steam-inserter"]="Bras mécanique à vapeur",
     }
     -------------------------
 }

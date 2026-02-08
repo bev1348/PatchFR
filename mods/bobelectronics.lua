@@ -14,6 +14,9 @@ return {
         ["computer-age-2"]="Révolution numérique 2",
         ["computer-age-3"]="Révolution numérique 3",
     },
+    ["item-name"] = {
+        ["bob-gilded-copper-cable"]="Câble de cuivre doré",
+    },
     ["technology-name"] = {
         ["electronics"]="Électronique de base",
     }

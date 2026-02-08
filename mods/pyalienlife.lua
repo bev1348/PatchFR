@@ -39,6 +39,7 @@ return {
         ["integrated-circuits-3"]="Circuits intégrés - Étape 3",
         ["kicalk"]="Kicalk - Étape 1",
         ["kmauts"]="Kmauts - Étape 1",
+        ["mining-with-fluid"]="Exploitation minière avec fluide",
         ["moondrop"]="Moondrop - Étape 1",
         ["mukmoux"]="Mukmoux - Étape 1",
         ["spidertron"]="Montures - Étape 3",

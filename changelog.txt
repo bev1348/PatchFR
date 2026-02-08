@@ -1,4 +1,47 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.16
+Date: 08.02.2026
+  Locale:
+    - Mise à jour des mods suivants : Angel's Infinite Ores, Bob's Modules, Electric Grid, 
+      Enemy Race Manager, exfret's randomizer, Extended Angels, Gleba Reborn, 🌐Igrys, 
+      IPL - Inter Platform Logistics, LavaBlock, Lignumis, MadClown01's Extended AngelBob Minerals, 
+      MadClown01's Nuclear Extension, MadClown01's Processing, 
+      Mission Tasks - A collaborative TODO list, Pacifist, Planet Pelagos, Storage Tank Mk2 2.0, 
+      Subsurface - build your base underground!, Valves, Visible Planets Scale et 
+      Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.15
+Date: 11.01.2026
+  Locale:
+    - Ajout des mods suivants : Accumulator V2, Angel's Addons - Robot Logistics, 
+      Angel's Addons - C.A.B., Angel's Addons - Mass Transit, Angel's Addons - Storage Options, 
+      Angel's Bio Processing, Angel's Infinite Ores, Angel's Petrochemical Processing, 
+      Angel's Refining, Angel's Smelting, Arachnids on normal enemy force, Arboria, 
+      Artisanal Reskins: Angel's Mods, Asteroid Collector MK2, Big accumulator, Big solar panel, 
+      Big substation, Bio processing group, Cosmic incubator BETA, Diagonal Inserter, 
+      Distribution Request Planner, Enhanced Shadows, Extra Storage Tanks: Tiny Storage Tanks, 
+      Focused gun turrets, Hypercell substation, LavaBlock, Machine Upgrades, 
+      MadClown01's Extended AngelBob Minerals, MadClown01's Processing, MFerrari lib, 
+      Omniscience, Panglia Planet BETA5, Planet Omnia, Pollution as surface property, 
+      Quality Glassware, Rampant Arsenal (Fork), Shattered Planet, Solar Matrix, Space Block, 
+      Sushi Splitters, Taxi Trains, Trash Slot, Wooden Gleba: Water Cane et 
+      Wooden Vulcanus: Sulfuric Bacteria
+    - Mise à jour des mods suivants : 248k Redux Mod, Abandoned Ruins - Updated (core), 
+      Artisanal Reskins: Library, Asteroid Belt, Astroponics, Bob's Adjustable Inserters, 
+      Bob's Enemies, Bob's Logistics mod, Bob's Metals, Chemicals and Intermediates, 
+      Bob's Revamp mod, Canal Excavator, Crushing Industry, Enemy Race Manager, 
+      exfret's randomizer, Exotic Space Industries, Hard Fulgora, Hard Gleba, Hard Vulcanus, 
+      HelicopterRevival, Infinite Ores And Oil, IPL - Inter Platform Logistics, 
+      Lignumis, LTN - Logistic Train Network, MadClown01's Processing, 
+      Mission Tasks - A collaborative TODO list, More Long Inserters, Omnicrystal, Omnifluid, 
+      Omnimatter, P.U.M.P., Picker Extended Reborn, Planet Pelagos, Pyanodons Alternative Energy, 
+      Pyanodons Coal Processing, Pyanodons Fusion Energy, Pyanodons High Tech, Resource Monitor, 
+      Scrappy Industry, Solar Calculator, Spaghetti Belt Tools, 
+      Subsurface - build beneath your base!, The Sun is Dead, Thermal Solar Power (Lite), 
+      Vanilla Loaders, Voidcraft, Wooden Fulgora: Coralmium Agriculture et Wooden Industry
+    - Suppression des mods suivants : Extended Vanilla: Mining & Drills, 
+      Extended Vanilla: Personal Equipment et Extended Vanilla: Refining
+---------------------------------------------------------------------------------------------------
 Version: 2.0.14
 Date: 07.12.2025
   Locale:

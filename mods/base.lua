@@ -9,6 +9,7 @@ return {
         ["computer-age-2"]="Produire 1000 processeurs par heure.",
         ["computer-age-3"]="Produire 5k de processeurs par heure.",
         ["smoke-me-a-kipper-i-will-be-back-for-breakfast"]="Lancez une fusée dans l'espace.",
+        ["lazy-bastard"]="Lancez une fusée dans l'espace tout en fabriquant manuellement 111 objets au maximum.",
     },
     ["achievement-name"] = {
         ["computer-age-1"]="L'âge de l'informatique 1",
@@ -31,6 +32,8 @@ return {
         ["rocket-silo"]="Utilisé pour construire et lancer une fusée pour gagner la partie.",
         ["solar-panel"]="Pendant la journée, il produit 100% de la puissance de sortie et descend à 0% la nuit.",
         ["steam-turbine"]="Consomme de la vapeur pour produire de l’énergie électrique.",
+        ["chemical-plant"]="",
+        ["oil-refinery"]="",
     },
     ["entity-name"] = {
         ["assembling-machine-1"]="Machine d'assemblage",
@@ -74,6 +77,8 @@ return {
         ["stone-wall"]="Mur",
         ["transport-belt"]="Convoyeur",
         ["underground-belt"]="Convoyeur souterrain",
+        ["chemical-plant"]="Usine de produits chimiques",
+        ["crude-oil"]="Pétrole brut",
     },
     ["equipment-name"] = {
         ["fission-reactor-equipment"]="Réacteur à fission portatif",
@@ -93,6 +98,7 @@ return {
         ["space-science-pack"]="Utilisés dans les laboratoires pour faire des recherches. Obtenus en lançant des satellites dans l'espace.",
         ["spidertron-remote"]="",
         ["wood"]="",
+        ["raw-fish"]="",
     },
     ["item-group-name"] = {
         ["combat"]="Combat",
@@ -129,6 +135,7 @@ return {
         ["tank-machine-gun"]="Mitrailleuse de véhicule",
         ["uranium-cannon-shell"]="Obus d'uranium",
         ["uranium-fuel-cell"]="Barre d'uranium",
+        ["raw-fish"]="Poisson cru",
     },
     ["shortcut"] = {
         ["make-spidertron-remote"]="Fabriquer une télécommande de Spidertron",
@@ -173,6 +180,8 @@ return {
         ["stronger-explosives"]="Augmente les dégâts des armes explosives.",
         ["tank"]="Véhicule offensif puissant sur lequel de nombreux équipements et armes peuvent être installés.",
         ["weapon-shooting-speed"]="Augmente la vitesse de tir de la plupart des armes à projectiles.",
+        ["oil-gathering"]="Captage du pétrole brut à l'aide d'un chevalet de pompage.",
+        ["kovarex-enrichment-process"]="Le processus pour créer de l’uranium 235 à partir d’uranium 238. Il nécessite une grande quantité d’uranium 235 comme catalyseur.",
     },
     ["technology-name"] = {
         ["advanced-circuit"]="Circuit électronique avancé",
@@ -201,6 +210,8 @@ return {
         ["uranium-processing"]="Procédé d'enrichissement de l'uranium",
         ["weapon-shooting-speed"]="Vitesse de tir des armes",
         ["gate"]="Porte",
+        ["oil-gathering"]="Captage du pétrole",
+        ["kovarex-enrichment-process"]="Procédé d’enrichissement Kovarex",
     },
     ["tile-description"] = {
         ["water-green"]="",
