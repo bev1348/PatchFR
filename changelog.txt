@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.17
+Date: 08.03.2026
+  Locale:
+    - Ajout des mods suivants : Cargo Ships - Split Tanker (3 fluids), Container Cargo Ship, 
+      Module Inserter Extended, Planet Foliax, Port Crane bulk loader and unloader et Sails Boats
+    - Mise à jour des mods suivants : 248k Redux Mod, AAI Industry, AAI Loaders, Avatars, 
+      Bioluminescence, Death Counter, Dragon Industries - Nauvis Division, exfret's randomizer, 
+      Geothermal, Gleba Reborn, Igrys, IPL - Inter Platform Logistics, LavaBlock, Lignumis, 
+      Map Tag Generator, Planet Arrakis, Planet Paracelsin, Planet Pelagos, Sushi Splitters, 
+      Team Competition, Vacuum Cleaner et Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.16
 Date: 08.02.2026
   Locale:

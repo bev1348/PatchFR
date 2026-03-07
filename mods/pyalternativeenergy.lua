@@ -6,6 +6,9 @@ return {
         ["nuclear-reactor"]="Réacteur surgénérateur",
         ["steel-furnace"]="Four à gaz",
     },
+    ["fluid-name"] = {
+        ["geothermal-water"]="Eau géothermique",
+    },
     ["item-name"] = {
         ["dried-meat"]="Sang séché",
         ["lithium"]="Plaque de lithium",

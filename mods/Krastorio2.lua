@@ -5,6 +5,7 @@ return {
         ["kr-ai-core"]="Noyau IA",
         ["kr-silicon"]="Silicium",
         ["steel-plate"]="Plaque d'acier",
+        ["kr-lithium"]="Lithium",
     },
     ["technology-description"] = {
         ["automation-science-pack"]="Avec la percée du noyau d'automatisation, de nombreux processus auparavant manuels peuvent potentiellement être automatisés.",

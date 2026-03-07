@@ -1,6 +1,9 @@
 return {
     ---------------
     --angelssmelting.cfg
+    ["item-name"] = {
+        ["bob-gilded-copper-cable"]="Câble en or",
+    },
     ["item-description"] = {
         ["loc-bauxite"]="Aluminium",
         ["loc-rutile"]="Titane",

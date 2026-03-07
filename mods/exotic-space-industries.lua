@@ -13,6 +13,7 @@ return {
         ["kr-ai-core"]="Cœur de la recherche sur l'IA",
         ["kr-silicon"]="Silicium de faible pureté",
         ["steel-plate"]="Lingot d'acier",
+        ["kr-lithium"]="Lithium de faible qualité",
     },
     ["recipe-name"] = {
         ["steel-plate"]="Lingot d'acier",
