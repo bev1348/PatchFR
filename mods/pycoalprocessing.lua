@@ -8,7 +8,7 @@ return {
         ["assembling-machine-1"]="Machine d'assemblage thermique MK1",
         ["assembling-machine-2"]="Machine d'assemblage thermique MK2",
         ["assembling-machine-3"]="Machine d'assemblage thermique MK3",
-        ["burner-inserter"]="Bras mécanique",
+        ["burner-inserter"]="Bras robotisé",
         ["washer"]="Laveur MK1",
     },
     ["item-description"] = {

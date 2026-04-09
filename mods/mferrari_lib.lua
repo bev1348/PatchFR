@@ -1,8 +1,7 @@
 return {
     ---------------
-    --Big-Monsters.cfg
+    --mferrari_lib.cfg
     ["entity-name"] = {
-        ["behemoth-worm-corpse"]="Corps de monstrueux ver géant",
         ["maf_flying_saucer"]="Soucoupe volante",
     }
     -------------------------

@@ -1,4 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.18
+Date: 10.04.2026
+  Locale:
+    - Ajout des mods suivants : Biter Cleanup, GeoGuessr, Lighthouse Radar, Radar Uplink, 
+      RPG Items, Spaceblock (Updated), True Ending Is Shattered Planet, Warp Drive Machine, 
+      Warp Drive Machine Expansion et Water Spitters
+    - Mise à jour des mods suivants : Black Market 2, Container Cargo Ship, Electric Grid, 
+      Enemy Race Manager, exfret's randomizer, Factorio World, Hard Tech Tree, HelicopterRevival, 
+      Igrys, More Long Inserters, Lignumis, Planet Foliax, Planet Paracelsin, Planet Pelagos, 
+      Planet Rubia, Port Crane bulk loader and unloader, Pyanodons Alien Life, Resource Monitor, 
+      Sails Boats, Science group, Shuttle Train Refresh, Spidertron Automation, Vacuum Cleaner et 
+      Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.17
 Date: 08.03.2026
   Locale:

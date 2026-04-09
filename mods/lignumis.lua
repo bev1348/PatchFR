@@ -9,7 +9,7 @@ return {
         ["tree-seeding"]="Agriculture de base",
     },
     ["entity-name"] = {
-        ["steam-inserter"]="Bras mécanique à vapeur",
+        ["steam-inserter"]="Bras robotisé à vapeur",
     }
     -------------------------
 }

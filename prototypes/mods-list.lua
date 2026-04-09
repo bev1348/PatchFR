@@ -55,6 +55,7 @@ return {
     "LargerLamps-2_0",
     "lignumis",
     "Load-Furn-2-SpaceAgeFix",
+    "mferrari_lib",
     "More_Ammo",
     "Nuclear Fuel",
     "omnimatter_energy",
@@ -87,6 +88,8 @@ return {
     "tenebris",
     "territory_claim",
     "UltimateBeltsSpaceAge",
+    "Warp-Drive-Machine",
+    "Warp-Drive-Machine-Expansion",
     "wret-beacon-rebalance-mod",
   ---
     "Krastorio2"
