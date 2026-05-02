@@ -31,6 +31,7 @@ return {
     ["recipe-name"] = {
         ["crushed-copper"]="Cuivre broyé",
         ["crushed-iron"]="Fer broyé",
+        ["sand"]="Traitement du sable",
     }
     -------------------------
 }

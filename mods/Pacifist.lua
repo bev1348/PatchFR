@@ -50,7 +50,7 @@ return {
         ["power-armor"]="Combinaison spatiale MK1",
         ["power-armor-mk2"]="Combinaison spatiale MK2",
         ["railgun-ammo"]="Projectile de haute vitesse",
-        ["rocket-launcher"]="Lanceur de bio-sondes",
+        ["rocket-launcher"]="Lance-missiles utilitaires",
     },
     ["recipe-name"] = {
         ["nutrients-from-biter-egg"]="Nutriments provenant d'un échantillon de spores",

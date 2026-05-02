@@ -12,6 +12,9 @@ return {
         ["arthropod-blood"]="Sang d'arthropode",
         ["milk"]="Lait de korlex",
     },
+    ["fluid-description"] = {
+        ["blood"]="C'est pour le Dieu du Sang.",
+    },
     ["item-description"] = {
         ["chitin"]="Composant principal de l'exosquelette des arthropodes.",
         ["chitosan"]="Il s'agit simplement d'un polysaccharide linéaire très utile.",

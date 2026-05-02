@@ -9,6 +9,10 @@ return {
         ["glass"]="Magiquement transparent.",
         ["salt"]="NaCl. Tueur d'escargots.",
     },
+    ["fluid-name"] = {
+        ["oxygen"]="Oxygène",
+        ["hydrogen"]="Hydrogène",
+    },
     ["item-name"] = {
         ["lead-dust"]="Poudre de plomb argenté",
         ["salt"]="Sel (chlorure de sodium)",

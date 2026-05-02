@@ -93,6 +93,7 @@ return {
         ["landfill"]="Peut être placé sur l'eau pour créer un terrain sur lequel vous pouvez construire.",
         ["refined-concrete"]="",
         ["refined-hazard-concrete"]="",
+        ["stone"]="",
         ["solar-panel-equipment"]="Fournit de l'énergie pour les modules d'armure.",
         ["solid-fuel"]="",
         ["space-science-pack"]="Utilisés dans les laboratoires pour faire des recherches. Obtenus en lançant des satellites dans l'espace.",

@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.19
+Date: 02.05.2026
+  Locale:
+    - Ajout des mods suivants : Access Control, Apia-Carnova planet system, Augmentor FORK, 
+      Auto Player Control, Big Bio Lab, Big Lab, Biter-proofing, Carna, Comfortable Loader, 
+      Condensing agricultural tower, Crafting Efficiency, 
+      Dynamic Resource Control (Old: Rich Resources), Easy Start, Everything on Nauvis: Patches, 
+      Fishing Dock, Fusion Robots, Infinite Quality Tiers, Infinite Worker Robot Capacity Research, 
+      Loaders Modernized, Long Range Turret 2.0, Pirate Fleet et Planet Vesta
+    - Mise à jour des mods suivants : Additional Paste Settings (Fixed), 
+      Circuit Launchable Rockets, Electric Grid, Nullius, Pacifist, Planet Foliax, Planet Pelagos, 
+      Planet Rubia , Radar Uplink, Solar Matrix, Void Block, Voidcraft, Warp Drive Machine, 
+      Warp Drive Machine Expansion et Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.18
 Date: 10.04.2026
   Locale:

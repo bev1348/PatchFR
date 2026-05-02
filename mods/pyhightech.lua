@@ -18,6 +18,9 @@ return {
         ["quantum-processor"]="Débloque les composants et les technologies à l'échelle nanométrique.",
         ["space-science-pack"]="Débloque les technologies quantiques et l'ordinateur quantique.",
     },
+    ["recipe-name"] = {
+        ["phosphoric-acid"]="Distillation de l'acide phosphoreux",
+    },
     ["technology-name"] = {
         ["advanced-circuit"]="Électronique - Étape 3",
         ["auog"]="Auog",
