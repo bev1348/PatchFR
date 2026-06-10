@@ -16,7 +16,6 @@ return {
         ["bob-fluid-mixing-furnace"]="Four de filtrage thermique pour fluide",
         ["bob-electric-mixing-furnace"]="Four de filtrage électrique 1",
         ["bob-alloy-processing"]="Traitement du bronze",
-        ["bob-zinc-processing"]="Traitement du laiton",
     }
     -------------------------
 }

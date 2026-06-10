@@ -41,6 +41,7 @@ return {
         ["railgun"]="Canon électromagnétique",
         ["railgun-ammo"]="Munition pour canon électromagnétique",
         ["scrap"]="Débris",
+        ["tungsten-carbide"]="Carbure de tungstène",
     },
     ["recipe-name"] = {
         ["nutrients-from-biter-egg"]="Nutriments provenant d'oeufs de déchiqueteurs",

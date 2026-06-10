@@ -136,6 +136,7 @@ return {
         ["tank-machine-gun"]="Mitrailleuse de véhicule",
         ["uranium-cannon-shell"]="Obus d'uranium",
         ["uranium-fuel-cell"]="Barre d'uranium",
+        ["repair-pack"]="Kit de réparation",
         ["raw-fish"]="Poisson cru",
     },
     ["shortcut"] = {
@@ -202,6 +203,7 @@ return {
         ["power-armor"]="Armure de puissance",
         ["power-armor-mk2"]="Armure de puissance MK2",
         ["railway"]="Chemin de fer",
+        ["repair-pack"]="Kit de réparation",
         ["robotics"]="Robotique",
         ["solar-energy"]="Énergie solaire",
         ["solar-panel-equipment"]="Panneau solaire portatif",

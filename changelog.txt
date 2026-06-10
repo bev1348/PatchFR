@@ -1,4 +1,24 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.20
+Date: 06.06.2026
+  Locale:
+    - Ajout des mods suivants : Eneas, Hive Mind Reworked, Loader Utilities, Mech Armor Start, 
+      Muluna, Moon of Nauvis, Muluna Utility Constants, Planet Background, 🔴Planet OMNI🔵, 
+      Plasma Duct, Platform Construction Needs Reader, Quality Heat Pipes, Quality Wagons, 
+      quick-start-快速开局, Red Quickstart, Rift Rail (裂隙铁路), Sniper Rifle, 
+      Solid Waste Pollution Filter, Spidertron Unit-07, trainsaver, Vulcanus Cargo Wagon, 
+      Worker Robot Cargo Size Research et Worker Robots Battery Research
+    - Mise à jour des mods suivants : Age of Production, Angel's Petrochemical Processing, 
+      Angel's Refining, Angel's Smelting, Biter Cleanup, Bob's Character classes, 
+      Bob's Electronics, Bob's Enemies, Bob's Logistics mod, 
+      Bob's Metals, Chemicals and Intermediates, Bob's Mining, Bob's Ores, 
+      Bob's Personal Equipment mod, Bob's Revamp mod, Bob's Warfare, Carna, Cupric Asteroids, 
+      Electric Grid, Everything Spoilage, Igrys 🌐, IPL - Inter Platform Logistics, Lignumis, 
+      Loaders Modernized, LTN - Logistic Train Network, MFerrari lib, Miniloader (Redux), 
+      Nullius, Planet Foliax, Rampant Arsenal (Fork), Reverse Factory, Space Block, 
+      Spaghetti Belt Tools, Subsurface - build your base underground!, Team Competition, 
+      Voidcraft, Warp Drive Machine Expansion et Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.19
 Date: 02.05.2026
   Locale:
