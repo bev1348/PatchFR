@@ -11,6 +11,10 @@ return {
         ["silicon"]="Silicium",
         ["silicon-wafer"]="Galette de silicium",
     },
+    ["item-description"] = {
+        ["rare-earth-dust"]="Deuxième étape de l'extraction des éléments de terres rares.",
+        ["rare-earth-powder"]="Première étape de l'extraction des éléments de terres rares.",
+    },
     ["technology-description"] = {
         ["advanced-circuit"]="Débloque les processus et les composants de transistors avancés.",
         ["electronics"]="Débloque des circuits très basiques à base de tubes à vide",

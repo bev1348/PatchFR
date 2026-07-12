@@ -16,6 +16,8 @@ return {
         ["gravel"]="Pierres moyennes.",
         ["optical-fiber"]="Transmission de données à grande vitesse.",
         ["ralesia"]="Plante extraterrestre qui pousse dans des atmosphères d'hydrogène.",
+        ["rare-earth-dust"]="Deuxième étape de la production de terres rares.",
+        ["rare-earth-powder"]="Première étape de la production de terres rares.",
         ["salt"]="NaCl. Tueur d'escargots.",
         ["sand"]="La plus petite partie d'une planète rocheuse.",
     },

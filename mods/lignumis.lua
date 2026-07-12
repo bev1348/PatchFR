@@ -6,7 +6,6 @@ return {
         ["automation-science-pack"]="Quittez Lignumis pour permettre la recherche technologique avancée.",
     },
     ["technology-name"] = {
-        ["aop-lumber-mill"]="Menuiserie",
         ["automation"]="Automatisation électrique",
         ["tree-seeding"]="Agriculture de base",
     },

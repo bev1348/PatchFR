@@ -7,6 +7,9 @@ return {
         ["pipe"]="Tuyau en fer",
         ["pipe-to-ground"]="Tuyau souterrain en fer",
     },
+    ["item-name"] = {
+        ["pipe"]="Tuyau en fer",
+    },
     ["technology-description"] = {
         ["bulk-inserter"]="Les bras robotisés haute capacité peuvent déplacer plusieurs objets en même temps",
     },

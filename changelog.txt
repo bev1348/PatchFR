@@ -1,4 +1,34 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 12.07.2026
+  Locale:
+    - Mise à jour des mods suivants : AAI Programmable Structures, 
+      Abandoned Ruins - Updated (core), Accumulator V2, Apia-Carnova planet system, 
+      Auto Manual Mode, Automatic Train Painter, Belt Visualizer, Bob's Ores, Cargo Ships, Carna, 
+      Creative Mod, Display Plates - Ground Signs & Map Markers - Forked, Earth Maps, 
+      Electric Trains, Eneas, Enemy Alert, Enemy Race Manager, Fill4Me, Gleba Reborn, 
+      HelicopterRevival, Hive Mind Reworked, Landfill Painting, LavaBlock, Lignumis, 
+      Manual Inventory Sorting, Mega Bot Start, Miniloader (Redux), Modular Turrets, 
+      Module Inserter Simplified, My Quick Start, Nullius, Panglia Planet BETA5, Planet Foliax, 
+      Planet Rubia 🌐, Pollution: Impactful Smog / Spore Cloud, Promethium is Quality, Pushbutton, 
+      Pyanodons Alien Life, Pyanodons Alternative Energy, Pyanodons Coal Processing, 
+      Pyanodons High Tech, Pyanodons Industry, Pyanodons Petroleum Handling, Quality Down-Binning, 
+      Quality++ | Extended Qualities, Reverse Factory, Rift Rail (裂隙铁路), Shield Generators, 
+      Show Max Underground Distance, Shuttle Train Refresh, Spidertron Automation, 
+      Spidertron Enhancements, StarMap Background, Storage Tank Mk2 2.0, 
+      Utilization Monitor Blargh, Vanilla Loaders, Warp Drive Machine, 
+      Warp Drive Machine Expansion et Warptorio 2.0 (Space Age)
+    - Suppression des mods suivants : Age of Production, Better Alert Arrows et Larger Lamps 2.0
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 02.07.2026
+  Changes:
+    - Mise à jour vers Factorio 2.1
+  Info:
+    - Il n'y a pas de mises à jour des traductions par rapport à la version précédente (2.0.20).
+      Le but est ici de rendre le mod compatible rapidement pour les joueurs qui sont sur les 
+      versions 2.1 expérimentales. Les mises à jour des traductions reprendront prochainement.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.20
 Date: 06.06.2026
   Locale:
@@ -18,6 +48,8 @@ Date: 06.06.2026
       Nullius, Planet Foliax, Rampant Arsenal (Fork), Reverse Factory, Space Block, 
       Spaghetti Belt Tools, Subsurface - build your base underground!, Team Competition, 
       Voidcraft, Warp Drive Machine Expansion et Warptorio 2.0 (Space Age)
+  Info:
+    - Il s'agit de la dernière mise à jour pour ce qui concerne la version 2.0 du jeu.
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.19
 Date: 02.05.2026

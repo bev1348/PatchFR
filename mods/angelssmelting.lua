@@ -8,6 +8,11 @@ return {
         ["loc-bauxite"]="Aluminium",
         ["loc-rutile"]="Titane",
     },
+    ["recipe-name"] = {
+        ["angels-plate-copper"]="Plaque de cuivre",
+        ["angels-plate-iron"]="Plaque de fer",
+        ["angels-plate-steel"]="Plaque d'acier",
+    },
     ["technology-description"] = {
         ["bob-alloy-processing"]="",
     },

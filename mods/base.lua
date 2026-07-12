@@ -68,7 +68,6 @@ return {
         ["pipe"]="Tuyau",
         ["pipe-to-ground"]="Tuyau souterrain",
         ["small-electric-pole"]="Petit poteau électrique",
-        ["small-lamp"]="Lampe",
         ["solar-panel"]="Panneau solaire",
         ["spidertron"]="Spidertron",
         ["spitter-spawner"]="Nid de cracheurs",
