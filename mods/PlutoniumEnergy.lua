@@ -4,6 +4,7 @@ return {
     ["item-name"] = {
         ["breeder-fuel-cell"]="Cellule de combustible pour surgénérateur",
         ["depleted-breeder-fuel-cell"]="Cellule de combustible épuisée pour surgénérateur",
+        ["plutonium-239"]="Plutonium-239",
     }
     -------------------------
 }

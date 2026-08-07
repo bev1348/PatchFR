@@ -2,11 +2,11 @@ return {
     ---------------
     --aai-industry.cfg
     ["entity-name"] = {
+        ["gate"]="Porte en pierre",
         ["lab"]="Laboratoire électrique",
         ["small-electric-pole"]="Petit poteau électrique en bois",
         ["small-iron-electric-pole"]="Petit poteau électrique en fer",
         ["stone-wall"]="Mur en pierre",
-        ["gate"]="Porte en pierre",
     },
     ["fuel-category-name"] = {
         ["chemical"]="Carburant",
@@ -14,6 +14,7 @@ return {
     ["item-name"] = {
         ["electric-engine-unit"]="Grand moteur électrique",
         ["engine-unit"]="Moteur multicylindre",
+        ["glass"]="Verre",
         ["lab"]="Laboratoire électrique",
     },
     ["technology-description"] = {
@@ -25,8 +26,9 @@ return {
     ["technology-name"] = {
         ["electric-engine"]="Grand moteur électrique",
         ["engine"]="Moteur multicylindre",
-        ["logistics-0"]="Logistique de base 2",
         ["gate"]="Portes en pierre",
+        ["logistics-0"]="Logistique de base 2",
+        ["steam-power"]="Puissance vapeur",
     },
     ["tile-name"] = {
         ["stone-path"]="Chemin de brique",

@@ -1,0 +1,19 @@
+{
+    "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+    "runtime.version": "Lua 5.2",
+    "workspace.library": [
+        "./types"
+    ],
+    "workspace.checkThirdParty": false,
+    "diagnostics.globals": [
+        "data",
+        "mods",
+        "log",
+        "serpent",
+        "table_size",
+        "defines"
+    ],
+    "diagnostics.disable": [
+        "lowercase-global"
+    ]
+}

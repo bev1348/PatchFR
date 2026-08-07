@@ -1,3 +1,8 @@
+---Liste ordonnée de tous les sous-types de prototypes d'entité Factorio. Parcourue dans l'ordre par
+---`getEntityType` (dans `CommuPrototype`) pour résoudre le sous-type concret de `data.raw` d'une cible
+---générique `"entity"`. L'ordre est significatif : le premier sous-type dont `data.raw[sous-type][nom]`
+---existe l'emporte.
+---@type string[]
 return {
 "arrow",
 "artillery-flare",

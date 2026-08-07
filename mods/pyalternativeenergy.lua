@@ -12,6 +12,7 @@ return {
     ["item-name"] = {
         ["dried-meat"]="Sang séché",
         ["lithium"]="Plaque de lithium",
+        ["thorium-232"]="Thorium-232",
     },
     ["recipe-name"] = {
         ["stone-distilation"]="Distillation du gravier",

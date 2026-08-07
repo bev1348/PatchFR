@@ -7,22 +7,27 @@ return {
     ["item-description"] = {
         ["beef"]="Viande de bœuf, riche en protéines, obtenue à partir de bovins.",
         ["cheese"]="Produit laitier fermenté, riche en goût et utilisé dans de nombreux plats.",
+        ["coconut"]="Fruit tropical à coque très dure, polyvalent, qui fournit de l'eau et de la chair.",
         ["cucumber"]="Un légume croquant et rafraîchissant souvent utilisé dans les salades.",
+        ["egg"]="Un œuf de poule, polyvalent et utilisé dans de nombreuses recettes.",
         ["garlic"]="Un bulbe savoureux largement utilisé comme assaisonnement dans de nombreuses cuisines.",
         ["honey"]="Miel sucré récolté dans les ruches d'abeilles pour l'alimentation et les infusions.",
+        ["orange"]="Agrumes à la saveur acidulée, connus pour leur teneur en vitamine C.",
         ["potato"]="Tubercule amylacé de la famille des Solanacées, légume le plus couramment utilisé pour les frites et les chips.",
         ["rice"]="Grain d'une herbe semi-aquatique largement cultivée et utilisé comme aliment de base, en particulier en Asie.",
         ["salt"]="Substance cristalline blanche, du chlorure de sodium, utilisée pour l'assaisonnement ou la conservation des aliments.",
+        ["sugarcane"]="Une herbe haute qui produit un jus sucré utilisé pour fabriquer du sucre et d'autres produits.",
         ["tomato"]="Fruit rouge juteux souvent utilisé comme légume dans la cuisine.",
         ["vinegar"]="Liquide au goût aigre contenant de l'acide acétique, obtenu par fermentation de liquides alcooliques, utilisé dans la cuisine ou la conservation.",
         ["wheat"]="Graminée produisant des grains, largement cultivée pour l'alimentation. C'est une source importante d'hydrates de carbone.",
-        ["egg"]="Un œuf de poule, polyvalent et utilisé dans de nombreuses recettes.",
-        ["orange"]="Agrumes à la saveur acidulée, connus pour leur teneur en vitamine C.",
-        ["sugarcane"]="Une herbe haute qui produit un jus sucré utilisé pour fabriquer du sucre et d'autres produits.",
     },
     ["item-name"] = {
+        ["ash"]="Cendre",
         ["coffee-powder"]="Café en poudre",
         ["salt"]="Sel",
+    },
+    ["recipe-name"] = {
+        ["orange"]="Orange",
     }
     -------------------------
 }

@@ -4,6 +4,10 @@ return {
     ["entity-name"] = {
         ["crash-site-assembling-machine-1-repaired"]="Machine d'assemblage de vaisseaux écrasés",
     },
+    ["item-description"] = {
+        ["rare-earth-dust"]="Deuxième étape de l'extraction des éléments de terres rares.",
+        ["rare-earth-powder"]="Première étape de l'extraction des éléments de terres rares.",
+    },
     ["item-name"] = {
         ["advanced-circuit"]="Carte de circuit imprimé complexe",
         ["electronic-circuit"]="Carte de circuit imprimé simple",
@@ -11,9 +15,8 @@ return {
         ["silicon"]="Silicium",
         ["silicon-wafer"]="Galette de silicium",
     },
-    ["item-description"] = {
-        ["rare-earth-dust"]="Deuxième étape de l'extraction des éléments de terres rares.",
-        ["rare-earth-powder"]="Première étape de l'extraction des éléments de terres rares.",
+    ["recipe-name"] = {
+        ["phosphoric-acid"]="Distillation de l'acide phosphoreux",
     },
     ["technology-description"] = {
         ["advanced-circuit"]="Débloque les processus et les composants de transistors avancés.",
@@ -21,9 +24,6 @@ return {
         ["graphene"]="Débloque les technologies et la production de graphène.",
         ["quantum-processor"]="Débloque les composants et les technologies à l'échelle nanométrique.",
         ["space-science-pack"]="Débloque les technologies quantiques et l'ordinateur quantique.",
-    },
-    ["recipe-name"] = {
-        ["phosphoric-acid"]="Distillation de l'acide phosphoreux",
     },
     ["technology-name"] = {
         ["advanced-circuit"]="Électronique - Étape 3",

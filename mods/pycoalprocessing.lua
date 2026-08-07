@@ -9,6 +9,10 @@ return {
         ["assembling-machine-2"]="Machine d'assemblage thermique MK2",
         ["assembling-machine-3"]="Machine d'assemblage thermique MK3",
         ["burner-inserter"]="Bras robotisé",
+        ["fawogae-plantation-mk01"]="Plantation de Fawogaés MK1",
+        ["fawogae-plantation-mk02"]="Plantation de Fawogaés MK2",
+        ["fawogae-plantation-mk03"]="Plantation de Fawogaés MK3",
+        ["fawogae-plantation-mk04"]="Plantation de Fawogaés MK4",
         ["washer"]="Laveur MK1",
     },
     ["item-description"] = {
@@ -22,7 +26,9 @@ return {
         ["sand"]="La plus petite partie d'une planète rocheuse.",
     },
     ["item-name"] = {
+        ["ash"]="Cendres",
         ["barrel"]="Baril vide",
+        ["ralesia"]="Ralésia",
         ["salt"]="Sel (chlorure de sodium)",
     },
     ["recipe-name"] = {
@@ -34,6 +40,7 @@ return {
         ["automation"]="Machines d'assemblage à combustible pour la production automatique de masse.",
         ["automation-2"]="Usines automatisées capables d'assembler des machines lourdes.",
         ["automation-3"]="Les machines thermique automatisées les plus avancées.",
+        ["belt-capacity"]="Augmenter la hauteur des piles d'objets sur les convoyeurs de transport.",
         ["rocket-silo"]="Permet de lancer des fusées dans l'espace et de réaliser des expériences en apesanteur.",
         ["syngas"]="Débloque un carburant polyvalent à indice d'octane plus élevé, synthétisé à partir de gaz de charbon. Ou s'agit-il simplement d'un faux gaz ?",
     },
@@ -43,6 +50,7 @@ return {
         ["mukmoux"]="Mukmoux",
         ["oil-processing"]="Extraction du pétrole",
         ["syngas"]="Gaz de synthèse",
+        ["transport-belt-capacity"]="Capacité des convoyeurs de transport",
         ["ulric"]="Ulric",
     }
     -------------------------

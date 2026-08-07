@@ -1,4 +1,41 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.2
+Date: 07.08.2026
+  Changes:
+    - Ajout d'un outil de détection des réutilisations de clés de localisation : au chargement,
+      le mod repère et trace dans les logs les prototypes qui affichent le nom d'un autre
+      prototype non traduit (par ex. une recette qui emprunte le nom d'un item). Cela permet
+      d'identifier plus facilement les trous de traduction. Outil en lecture seule, sans aucun
+      impact sur le comportement en jeu.
+  Info:
+    - Documentation complète du code (annotations de typage LuaLS bilingues
+      FR/EN, audit d'architecture) et ajout d'outils de développement, sans modification du
+      comportement en jeu.
+  Locale:
+    - Ajout des mods suivants : 5Dim's mod - Quality, 5Dim's mod - Vehicles, 5Dim's mod - Yeters, 
+      Belt Immunity With Benefits, Filter Helper, Industrial Revolution 3, 
+      Industrial Revolution 3: Airships, Industrial Revolution 3: Deep Space Mining, 
+      Industrial Revolution 3: Inspiration, 
+      Industrial Revolution 3: Powered Loaders & Ingot Stacking, IR3 Assets: assembling machines, 
+      IR3 Assets: bronze, IR3 Assets: crushing industry, IR3 Assets: furnaces, IR3 Assets: labs, 
+      IR3 Assets: mining drills, IR3 Assets: pipes, IR3 Assets: power, IR3 Assets: resources, 
+      IR3 Assets: robotower, IR3 Assets: steamworks, IR3 Assets: tarmac, IR3 Assets: turrets, 
+      IR3 Assets: walls, IR3 Assets: alloy smelting, IR3 Assets: wood industry, 
+      Mandatory Spaghetti, Nutrients are Pizza, Research Scanner Combinator, Signal Display et 
+      What Items Do I Have?
+    - Mise à jour des mods suivants : 248k Redux Mod, 5Dim's mod - Automated Fuel & Ammo, 
+      5Dim's mod - Automatization, 5Dim's mod - Battlefield, 5Dim's mod - Enemies, 
+      5Dim's mod - Energy, 5Dim's mod - Equipment, 5Dim's mod - Infinite Research, 
+      5Dim's mod - Logistic, 5Dim's mod - Mining, 5Dim's mod - Module, 5Dim's mod - Nuclear, 
+      5Dim's mod - Resources, 5Dim's mod - Storage, 5Dim's mod - Trains, 5Dim's mod - Transport, 
+      Big accumulator, Big solar panel, Cargo Ships, Carna, Crushing Industry, Eneas, Enemy Alert, 
+      Even More Text Plates 2.0, exfret's randomizer, Factoripedia, HelicopterRevival, Hovercrafts, 
+      Keniras Random Recipes, LTN - Logistic Train Network, Picker Extended Reborn, Planet Foliax, 
+      Planet Paracelsin 🌐, Planet Vesta, Portable power equipment, Rampant Arsenal (Fork), 
+      Rampant, fixed, Reverse Factory, RPG System, Scrap Resource, Statistics Combinators Updated, 
+      Team Competition, UPS Friendly Nixie Tubes (Fixed) et Voidcraft
+    - Suppression des mods suivants : Augmentor FORK
+---------------------------------------------------------------------------------------------------
 Version: 2.1.1
 Date: 12.07.2026
   Locale:

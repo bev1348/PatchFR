@@ -16,6 +16,7 @@ return {
     },
     ["item-name"] = {
         ["bob-gilded-copper-cable"]="Câble de cuivre doré",
+        ["copper-cable"]="Câble en cuivre",
     },
     ["technology-name"] = {
         ["electronics"]="Électronique de base",

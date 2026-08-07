@@ -1,14 +1,14 @@
 return {
     ---------------
     --bztitanium.cfg
+    ["item-name"] = {
+        ["titanium-dust"]="Poudre de titane",
+    },
     ["technology-description"] = {
         ["fluid-mining"]="Autorise l'approvisionnement en fluides des foreuses minières pour permettre l'exploitation de certaines ressources.",
     },
     ["technology-name"] = {
         ["fluid-mining"]="Fluide d'exploitation minière",
-    },
-    ["item-name"] = {
-        ["titanium-dust"]="Poudre de titane",
     }
     -------------------------
 }

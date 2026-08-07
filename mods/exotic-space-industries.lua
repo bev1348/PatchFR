@@ -11,9 +11,9 @@ return {
         ["copper-plate"]="Lingot de cuivre",
         ["iron-plate"]="Lingot de fer",
         ["kr-ai-core"]="Cœur de la recherche sur l'IA",
+        ["kr-lithium"]="Lithium de faible qualité",
         ["kr-silicon"]="Silicium de faible pureté",
         ["steel-plate"]="Lingot d'acier",
-        ["kr-lithium"]="Lithium de faible qualité",
     },
     ["recipe-name"] = {
         ["steel-plate"]="Lingot d'acier",

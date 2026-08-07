@@ -5,8 +5,8 @@ return {
         ["molybdenum-ore"]="Minerai de molybdène",
     },
     ["fluid-name"] = {
-        ["oxygen"]="Oxygène gazeux",
         ["hydrogen"]="Hydrogène gazeux",
+        ["oxygen"]="Oxygène gazeux",
     }
     -------------------------
 }

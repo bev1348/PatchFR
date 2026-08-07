@@ -1,3 +1,8 @@
+---Liste ordonnée de tous les sous-types de prototypes d'équipement Factorio. Parcourue dans l'ordre
+---par `getEquipmentType` (dans `CommuPrototype`) pour résoudre le sous-type concret de `data.raw` d'une
+---cible générique `"equipment"`. L'ordre est significatif : le premier sous-type dont
+---`data.raw[sous-type][nom]` existe l'emporte.
+---@type string[]
 return {
     "active-defense-equipment",
     "battery-equipment",

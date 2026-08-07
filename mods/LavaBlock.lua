@@ -1,9 +1,15 @@
 return {
     ---------------
     --LavaBlock.cfg
+    ["entity-name"] = {
+        ["air-compressor"]="Compresseur à air",
+    },
     ["fluid-name"] = {
-        ["oxygen"]="Oxygène",
         ["argon"]="Argon",
+        ["oxygen"]="Oxygène",
+    },
+    ["recipe-name"] = {
+        ["locomotive"]="Locomotive",
     }
     -------------------------
 }

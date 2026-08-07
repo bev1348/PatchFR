@@ -1,6 +1,9 @@
 return {
     ---------------
     --ConstructionPlannerContinued.cfg
+    ["controls"] = {
+        ["toggle-auto-approve"]="Activer l'approbation automatique",
+    },
     ["item-group-name"] = {
         ["unapproved-entities"]="Espaces réservés fantômes (Construction Approvals)",
     },

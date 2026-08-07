@@ -1,0 +1,14 @@
+-- types/patchfr-mods.lua
+--
+-- Fichier de types LuaLS — NON chargé par Factorio. Il fournit l'autocomplétion et la vérification
+-- de type pour les 106 tables de traduction `mods/*.lua`, SANS rien ajouter dans ces fichiers (qui
+-- restent la zone de travail du traducteur). Le type est défini une seule fois, ici.
+
+---Table de traduction d'un mod (`mods/<nom>.lua`), consommée par `data-final-fixes.lua`.
+---
+---Structure :
+--- - clé de 1er niveau = catégorie de libellé : soit un type de prototype brut (ex. `"controls"`),
+---   soit `"<type>-name"` (ex. `"entity-name"`), soit `"<type>-description"` (ex. `"item-description"`) ;
+--- - clé de 2e niveau = nom du prototype ciblé ;
+--- - valeur = libellé traduit (`LocalisedString` : chaîne simple, ou table `{clé, ...}`).
+---@alias PatchFR.ModLocalization table<string, table<string, LocalisedString>>

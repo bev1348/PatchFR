@@ -8,10 +8,14 @@ return {
         ["hazard-concrete"]="Pour un look conforme aux normes OSHA. Ralentit les personnes et les véhicules.",
         ["refined-hazard-concrete"]="Pour un look plus sophistiqué et conforme aux normes OSHA. Ralentit les personnes et ralentit considérablement les véhicules.",
     },
+    ["item-name"] = {
+        ["fission-reactor-equipment"]="Réacteur de fusion portable",
+    },
     ["technology-description"] = {
         ["railway"]="Débloquez les trains et les systèmes logistiques de base des trains.",
     },
     ["technology-name"] = {
+        ["fission-reactor-equipment"]="Réacteur de fusion portable",
         ["railway"]="Trains et chemins de fer - Étape 1",
     },
     ["tile-name"] = {

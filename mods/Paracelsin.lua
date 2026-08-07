@@ -19,8 +19,8 @@ return {
     },
     ["technology-name"] = {
         ["accumulator-v2"]="Accumulateurs avancés",
-        ["solar-matrix"]="Énergie solaire avancée",
         ["elevated-pipe"]="Tuyauterie surélevée",
+        ["solar-matrix"]="Énergie solaire avancée",
     }
     -------------------------
 }

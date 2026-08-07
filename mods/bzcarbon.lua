@@ -2,6 +2,7 @@ return {
     ---------------
     --bzcarbon.cfg
     ["item-name"] = {
+        ["carbon-fiber"]="Fibres de carbone",
         ["diamond"]="Diamant",
     },
     ["technology-description"] = {

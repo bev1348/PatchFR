@@ -1,12 +1,12 @@
 return {
     ---------------
     --angelssmelting.cfg
-    ["item-name"] = {
-        ["bob-gilded-copper-cable"]="Câble en or",
-    },
     ["item-description"] = {
         ["loc-bauxite"]="Aluminium",
         ["loc-rutile"]="Titane",
+    },
+    ["item-name"] = {
+        ["copper-cable"]="Câble en cuivre",
     },
     ["recipe-name"] = {
         ["angels-plate-copper"]="Plaque de cuivre",
@@ -17,10 +17,10 @@ return {
         ["bob-alloy-processing"]="",
     },
     ["technology-name"] = {
-        ["bob-steel-mixing-furnace"]="Four de filtrage en acier",
-        ["bob-fluid-mixing-furnace"]="Four de filtrage thermique pour fluide",
-        ["bob-electric-mixing-furnace"]="Four de filtrage électrique 1",
         ["bob-alloy-processing"]="Traitement du bronze",
+        ["bob-electric-mixing-furnace"]="Four de filtrage électrique 1",
+        ["bob-fluid-mixing-furnace"]="Four de filtrage thermique pour fluide",
+        ["bob-steel-mixing-furnace"]="Four de filtrage en acier",
     }
     -------------------------
 }
