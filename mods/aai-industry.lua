@@ -20,6 +20,7 @@ return {
     ["technology-description"] = {
         ["electric-engine"]="Grands moteurs polyphasés sans balais.",
         ["electronics"]="Composants électroniques pour le traitement basique du signal.",
+        ["electricity"]="La base : Turbogénérateur thermique, moteurs électriques et petits poteaux électriques.",
         ["engine"]="Moteurs efficaces et de grande puissance pour les véhicules et la robotique.",
         ["steam-power"]="Puissance plus efficace issue de la vapeur.",
     },

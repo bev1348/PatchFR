@@ -11,6 +11,8 @@ return {
     },
     ["technology-description"] = {
         ["automation-science-pack"]="Quittez Lignumis pour permettre la recherche technologique avancée.",
+        ["electricity"]="L'électricité permet une automatisation plus efficace et plus compacte grâce à une production d'énergie centralisée.",
+        ["steam-power"]="Production de vapeur de base",
     },
     ["technology-name"] = {
         ["automation"]="Automatisation électrique",

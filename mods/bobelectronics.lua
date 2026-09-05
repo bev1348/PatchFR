@@ -17,6 +17,9 @@ return {
     ["item-name"] = {
         ["bob-gilded-copper-cable"]="Câble de cuivre doré",
         ["copper-cable"]="Câble en cuivre",
+        ["bob-circuit-board"]="Circuit imprimé",
+        ["bob-multi-layer-circuit-board"]="Circuit imprimé multicouche",
+        ["bob-superior-circuit-board"]="Circuit imprimé supérieur",
     },
     ["technology-name"] = {
         ["electronics"]="Électronique de base",

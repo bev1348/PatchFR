@@ -54,6 +54,7 @@ return {
     "canal-excavator",
     "cargo-ships",
     "carna",
+    "CircuitProcessing",
     "Clowns-Nuclear",
     "Clowns-Processing",
     "ConstructionPlanner",
