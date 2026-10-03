@@ -18,6 +18,7 @@ return {
     ["item-description"] = {
         ["crushed-quartz"]="Pas tout à fait du sable, pas tout à fait du minerai.",
         ["gravel"]="Pierres moyennes.",
+        ["limestone"]="Il s'agit d'une roche courante dans la région.",
         ["optical-fiber"]="Transmission de données à grande vitesse.",
         ["ralesia"]="Plante extraterrestre qui pousse dans des atmosphères d'hydrogène.",
         ["rare-earth-dust"]="Deuxième étape de la production de terres rares.",

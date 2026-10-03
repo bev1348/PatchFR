@@ -135,6 +135,7 @@ return {
     "wood-industry",
     "wood-military",
     "wret-beacon-rebalance-mod",
+    "yunrus-space-block",
   ---
     "Krastorio2"
 }

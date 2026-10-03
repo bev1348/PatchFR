@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.4
+Date: 04.10.2026
+  Locale:
+    - Ajout des mods suivants : Barreling Machines, Battery-Electric Train, Biter Memoirs, Boombox, 
+      Darkmode, No Freshness Except Bacteria, Plasma Handling, Radar signals, Rigor Module, 
+      Space battles et Spaceblock
+    - Mise à jour des mods suivants : Aircraft Realism, Angel's Bio Processing, 
+      Apia-Carnova planet system, Asteroid Mining, Astroponics, Bob's Character classes, 
+      Bob's Enemies, Canal Excavator, Cosmic incubator BETA, Enemy Race Manager, 
+      exfret's randomizer, Exotic Space Industries, Inserter Fuel Leech, LavaBlock, Lignumis, 
+      LTN - Logistic Train Network, Miniloader (Redux), M.I.R.V., Panglia Planet BETA5, 
+      Pyanodons Alien Life, Pyanodons Post Processing, Thermal Solar Power (Lite), 
+      Transport Drones, Voidcraft, Wooden Vulcanus: Sulfuric Bacteria et Warptorio 2.0 (Space Age)
+---------------------------------------------------------------------------------------------------
 Version: 2.1.3
 Date: 06.09.2026
   Locale:

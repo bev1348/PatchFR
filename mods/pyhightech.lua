@@ -13,7 +13,7 @@ return {
         ["electronic-circuit"]="Carte de circuit imprimé simple",
         ["processing-unit"]="Carte de circuit imprimé de haute technologie",
         ["silicon"]="Silicium",
-        ["silicon-wafer"]="Galette de silicium",
+        ["silicon-wafer"]="Tranche de silicium",
     },
     ["recipe-name"] = {
         ["phosphoric-acid"]="Distillation de l'acide phosphoreux",

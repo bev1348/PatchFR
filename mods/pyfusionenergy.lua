@@ -9,6 +9,9 @@ return {
         ["deuterium"]="Deutérium",
         ["tritium"]="Tritium",
     },
+    ["item-description"] = {
+        ["diamond"]="Beauté industrielle.",
+    },
     ["item-name"] = {
         ["diamond"]="Diamant industriel",
     },
